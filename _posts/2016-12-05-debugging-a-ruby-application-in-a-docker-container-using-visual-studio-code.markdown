@@ -3,8 +3,6 @@ layout: post
 title:  "Debugging a Ruby Application in a Docker Container using Visual Studio Code"
 date:   2016-12-05 09:28:31 -0600
 categories: ruby
-img:
-  debug: start_vs_code_debug.png
 ---
 Ever since DockerCon 2016 in Seattle, I was quite impressed with what I saw with [Debugging a ES6 Node.js application in a Docker container using Visual Studio Code](https://alexanderzeitler.com/articles/debugging-a-nodejs-es6-application-in-a-docker-container-using-visual-studio-code/) from [Alexander Zeitler](https://twitter.com/alexzeitler_).  However I wanted to do this for Ruby.  
 
