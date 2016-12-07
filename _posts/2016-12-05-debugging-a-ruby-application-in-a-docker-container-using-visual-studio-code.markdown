@@ -22,14 +22,14 @@ cd ruby_docker_breakpoint
 code .
 {% endhighlight %}
 
-Build the docker docker container and run it
+Build the docker container and run it
 
 {% highlight bash %}
 docker-compose build
 docker-compose up
 {% endhighlight %}
 
-At this point you should see something like:
+At this point you should see something similar to:
 
 {% highlight bash %}
 ➜  ruby_docker_breakpoint git:(master) ✗ docker-compose up
