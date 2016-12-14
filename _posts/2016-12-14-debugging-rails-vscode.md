@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Debugging a Rails App in a Docker Container using Visual Studio Code"
-date:   2016-12-05 09:28:31 -0600
+date:   2016-12-14 09:28:31 -0600
 categories: ruby
 ---
 
