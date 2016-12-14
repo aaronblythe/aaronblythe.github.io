@@ -41,9 +41,10 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 # Interviews and Podcasts
 
 | Date          | Presentation                             | Event                             | Video |
-| 2016/07/12    | Chef Box: Autonomation                   | [ChefConf][chefconf]          | [Video][chefconfbox2016aaron] |
-| 2016/07/12    | Chef Box: Interview                      | [ChefConf][chefconf]          | [Video][chefconfbox2016interview] |
+| 2016/07/12    | Chef Box: Autonomation                   | [ChefConf][chefconf]              | [Video][chefconfbox2016aaron] |
+| 2016/07/12    | Chef Box: Interview                      | [ChefConf][chefconf]              | [Video][chefconfbox2016interview] |
 | 2014/08/28    | Arrested DevOps 19 Dev to Ops            | [Arrested DevOps][arresteddevops] | [Video][arresteddevops19vid] |
+| 2014          | Cerner Dev Con Video                     | [CernerDevCon][cernerdevcon]      | [Video][https://youtu.be/YCdbh0D1IW8?t=118] |
 
 
 [leanagilekc2016]: http://2016.leanagilekc.com/
@@ -79,3 +80,9 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [splunkconf2014vid]: https://conf.splunk.com/session/2014/conf2014_CharlieHuggard_Cerner_ITOperations.mp4
 [splunkconf2015vid]: http://conf.splunk.com/session/2015/recordings/2015-splunk-ct5.mp4
 [cernerdevcon2014]: https://www.youtube.com/watch?v=4f5QrgDmYz8&t=11s
+
+
+[splunk2015slides]: http://conf.splunk.com/session/2015/conf2015_ABlythe_Splunk_Adopting_GuerrillaMarketingHowTo.pdf
+[splunk2014slides]: https://conf.splunk.com/session/2014/conf2014_CharlieHuggard_Cerner_ITOperations.pdf
+
+
