@@ -10,7 +10,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date          | Presentation                             | Event                             | Slides | Video |
 | ------------- | ---------------------------------------- |:---------------------------------:|:------:|:-----:|
-| 2016/11/09    | Lean for Outages                         | [LeanAgile KC][leanagilekc2016]   | Slides | Coming ||
+| 2016/11/09    | Lean for Outages                         | [LeanAgile KC][leanagilekc2016]   | Slides | [Video][leanagilekc2016] |
 | 2016/10/20    | Ignite: Failure and the Third Way        | [DevOpsDays KC][devopsdayskc2016] | Slides | [Video][devopsdayskc2016failvid] |
 | 2016/09/28    | Change your password                     | [KC DevOps Meetup][kcdevopsmeetup]| Slides | [Video][changeyourpasswordvid] |
 | 2016/08/31    | Visual Studio Code and Ruby              | [KC DevOps Meetup][kcdevopsmeetup]| Slides | [Video][visualstudioruby] |
@@ -46,6 +46,14 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2014/08/28    | Arrested DevOps 19 Dev to Ops            | [Arrested DevOps][arresteddevops] | [Video][arresteddevops19vid] |
 | 2014          | Cerner Dev Con Video                     | [CernerDevCon][cernerdevcon]      | [Video][https://youtu.be/YCdbh0D1IW8?t=118] |
 
+# Mentions
+
+| Date          | Where                             |
+| 2016/12/06    | [Chef Blog][chef12062016]         |
+| 2016/11/01    | [Chef Blog][chef11012016]         |
+| 2016/11/02    | [Chris Stein's Blog][chrissteinblog] |
+| 2013/08/03    | [Chef Blog][chef05082013]         |
+| 2002          | [Kool Katz Testimonials][koolkatz]|
 
 [leanagilekc2016]: http://2016.leanagilekc.com/
 [leanagilekc2015]: http://2015.leanagilekc.com/
@@ -59,6 +67,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon]: https://twitter.com/cernereng
 [splvkc]: http://live.splunk.com/kansascity
 
+[leanagilekc2016]: https://www.youtube.com/watch?v=zyqeEC1YTG0
 [devopsdayskcday2introvid]: https://www.youtube.com/watch?v=3BYW1Q0Fz-0
 [devopsdayskcday1introvid]: https://www.youtube.com/watch?v=vTPElcrSDHk
 [devopsdayskc2016failvid]: https://www.youtube.com/watch?v=XhLwnZKxix8&index=5&list=PLE7tQUdRKcybhZsL8yLODmpwBmerptnqu
@@ -85,4 +94,8 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [splunk2015slides]: http://conf.splunk.com/session/2015/conf2015_ABlythe_Splunk_Adopting_GuerrillaMarketingHowTo.pdf
 [splunk2014slides]: https://conf.splunk.com/session/2014/conf2014_CharlieHuggard_Cerner_ITOperations.pdf
 
-
+[chef12062016]: https://blog.chef.io/2016/12/06/tis-the-season-for-putting-customers-first/
+[chef11012016]: https://blog.chef.io/2016/11/01/chef-at-devopsdays-kansas-city/
+[chef05082013]: https://blog.chef.io/2013/05/08/chef-10-26-0-released/
+[chrissteinblog]: http://chrisstein.io/devopsdays/2016/11/02/devopsdayskc2016-the-beginning.html
+[koolkatz]: http://www.koolkatzsurf.com/testimonials.htm
