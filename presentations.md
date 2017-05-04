@@ -10,20 +10,26 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date          | Presentation                             | Event                             | Slides | Video |
 | ------------- | ---------------------------------------- |:---------------------------------:|:------:|:-----:|
-| 2016/11/09    | Lean for Outages                         | [LeanAgile KC][leanagilekc2016]   | Slides | [Video][leanagilekc2016] |
-| 2016/10/20    | Ignite: Failure and the Third Way        | [DevOpsDays KC][devopsdayskc2016] | Slides | [Video][devopsdayskc2016failvid] |
+| 2017/08/04    | Trust, Just Culture and Blameless Post Mortems | [KCDC][kcdc2017]            | Slides | Coming |
+| 2017/05/20    | Introduction to Shodan                   | [BSides KC][bsideskc2017]         | Slides | Coming |
+| 2017/05/02    | Test Kitchen and Inspec for your Infra   | [St. Louis Silver Linings][silverlinings2017] | [Slides][stlsltestkitchen2017slides] | [Video][stlsltestkitchen2017vid] |
+| 2017/05/03    | Voice Driven ChatOps for Remote Worker   | [St. Louis Silver Linings][silverlinings2017] | [Slides][stlslchatops2017slides] | [Video][stlslchatops2017vid] |
+| 2016/11/09    | Lean for Outages (ChatOps)               | [LeanAgile KC][leanagilekc2016]   | [Slides][leanagilekc2016slides] | [Video][leanagilekc2016vid] |
+| 2016/10/20    | Ignite: Failure and the Third Way        | [DevOpsDays KC][devopsdayskc2016] | [Slides][devopsdayskc2016slides] | [Video][devopsdayskc2016failvid] |
 | 2016/09/28    | Change your password                     | [KC DevOps Meetup][kcdevopsmeetup]| Slides | [Video][changeyourpasswordvid] |
 | 2016/08/31    | Visual Studio Code and Ruby              | [KC DevOps Meetup][kcdevopsmeetup]| Slides | [Video][visualstudioruby] |
 | 2016/08/22    | Voice Driven ChatOps for Remote Worker   | [Midwest.io][midwestio]           | Slides | Coming |
 | 2016/07/12    | Enterprise Chef: Bringing Teams Together | [ChefConf][chefconf]              | Slides | [Video][chefconf2016vid] |
 | 2016/04/28    | Continuous Delivery                      | [UofI WebCon][uofiwebcon]         | Slides | N/A   |
 | 2016/03/22    | Chef and Docker where is the line?       | [KC DevOps Meetup][kcdevopsmeetup]| Slides | [Video][kcdevopsmeetupmar2016vid] |
-| 2015/10/27    | Continuous Delivery                      | [LeanAgile KC][leanagilekc2015]   | Slides | N/A   |
-| 2015/09/23    | Guerilla Marketing                       | [SplunkConf 2015][splunkconf]     | Slides | [Video][splunkconf2015vid] |
-| 2015/04/01    | Cleaning up the Kitchen: Enterprise Chef | [ChefConf][chefconf]              | Slides | [Video][chefconf2015vid] |
-| 2014/10/08    | Cooking up Splunk (With Charlie Huggard) | [SplunkConf 2014][splunkconf]     | Slides | [Video][splunkconf2014vid] |
+| 2015/10/27    | Continuous Delivery                      | [LeanAgile KC][leanagilekc2015]   | [Slides][leanagilekc2015slides] | N/A   |
+| 2015/09/23    | Guerilla Marketing                       | [SplunkConf 2015][splunkconf]     | [Slides][splunk2015slides] | [Video][splunkconf2015vid] |
+| 2015/06/11    | Continuous Delivery                      | [CernerDevCon][cernerdevcon]      | [Slides][cernerdevcon2015slides] | N/A |
+| 2015/04/01    | Cleaning up the Kitchen: Enterprise Chef | [ChefConf][chefconf]              | [Slides][chefconf2015slides] | [Video][chefconf2015vid] |
+| 2014/10/08    | Cooking up Splunk (With Charlie Huggard) | [SplunkConf 2014][splunkconf]     | [Slides][splunk2014slides] | [Video][splunkconf2014vid] |
 | 2014/07/01    | Promises, Promise (Promise Theory)       | [CernerDevCon][cernerdevcon]      | Slides | [Video][cernerdevcon2014] |
-| 2014/04/08    | Splunk Live! Kansas City                 | [Splunk Live! Kansas City][splvkc]| Slides | N/A   |
+| 2014/04/08    | Splunk Live! Kansas City                 | [Splunk Live! Kansas City][splvkc]| N/A | N/A   |
+| 2013/06/21    | Zabbix: Beyond Thunderdome               | [CernerDevCon][cernerdevcon]      | [Slides][cernerdevcon2013slides] | [Video][cernerdevcon2013]
 
 # MC
 
@@ -55,6 +61,9 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2013/08/03    | [Chef Blog][chef05082013]         |
 | 2002          | [Kool Katz Testimonials][koolkatz]|
 
+[kcdc2017]: http://kcdc.info
+[bsideskc2017]: https://www.bsideskc.org/
+[silverlinings2017]: http://stlsilverlinings.org/
 [leanagilekc2016]: http://2016.leanagilekc.com/
 [leanagilekc2015]: http://2015.leanagilekc.com/
 [kcdevopsmeetup]: http://www.meetup.com/DevOps-Kansas-City/
@@ -67,7 +76,9 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon]: https://twitter.com/cernereng
 [splvkc]: http://live.splunk.com/kansascity
 
-[leanagilekc2016]: https://www.youtube.com/watch?v=zyqeEC1YTG0
+[stlslchatops2017vid]: https://youtu.be/u6NSjWU8QeE
+[stlsltestkitchen2017vid]: https://youtu.be/q1RQPl-nw8w
+[leanagilekc2016vid]: https://www.youtube.com/watch?v=zyqeEC1YTG0
 [devopsdayskcday2introvid]: https://www.youtube.com/watch?v=3BYW1Q0Fz-0
 [devopsdayskcday1introvid]: https://www.youtube.com/watch?v=vTPElcrSDHk
 [devopsdayskc2016failvid]: https://www.youtube.com/watch?v=XhLwnZKxix8&index=5&list=PLE7tQUdRKcybhZsL8yLODmpwBmerptnqu
@@ -89,10 +100,18 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [splunkconf2014vid]: https://conf.splunk.com/session/2014/conf2014_CharlieHuggard_Cerner_ITOperations.mp4
 [splunkconf2015vid]: http://conf.splunk.com/session/2015/recordings/2015-splunk-ct5.mp4
 [cernerdevcon2014]: https://www.youtube.com/watch?v=4f5QrgDmYz8&t=11s
+[cernerdevcon2013]: https://www.youtube.com/watch?v=p513NVac6C8
 
-
+[stlslchatops2017slides]: https://speakerdeck.com/aaronblythe/voice-controlled-chatops-for-the-remote-worker
+[stlsltestkitchen2017slides]: https://github.com/aaronblythe/hello_webpage_chef/tree/master/Presentation
+[leanagilekc2016slides]: https://speakerdeck.com/aaronblythe/chatops-for-outages-at-lean-agile-kc
+[devopsdayskc2016slides]: https://drive.google.com/file/d/0Bz33o_Xkz6GYRjhsYTlxS3pSQnc/view
+[leanagilekc2015slides]: https://www.slideshare.net/AaronBlythe/creating-a-pipeline-leanagilekc-2015
 [splunk2015slides]: http://conf.splunk.com/session/2015/conf2015_ABlythe_Splunk_Adopting_GuerrillaMarketingHowTo.pdf
+[cernerdevcon2015slides]: https://www.slideshare.net/AaronBlythe/chefconf-2015-cleaning-up-the-kitchen
+[chefconf2015slides]: https://www.slideshare.net/AaronBlythe/chefconf-2015-cleaning-up-the-kitchen
 [splunk2014slides]: https://conf.splunk.com/session/2014/conf2014_CharlieHuggard_Cerner_ITOperations.pdf
+[cernerdevcon2013slides]: https://www.slideshare.net/AaronBlythe/zabbix-beyond-thunderdome
 
 [chef12062016]: https://blog.chef.io/2016/12/06/tis-the-season-for-putting-customers-first/
 [chef11012016]: https://blog.chef.io/2016/11/01/chef-at-devopsdays-kansas-city/
