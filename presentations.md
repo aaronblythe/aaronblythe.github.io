@@ -50,11 +50,12 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2016/07/12    | Chef Box: Autonomation                   | [ChefConf][chefconf]              | [Video][chefconfbox2016aaron] |
 | 2016/07/12    | Chef Box: Interview                      | [ChefConf][chefconf]              | [Video][chefconfbox2016interview] |
 | 2014/08/28    | Arrested DevOps 19 Dev to Ops            | [Arrested DevOps][arresteddevops] | [Video][arresteddevops19vid] |
-| 2014          | Cerner Dev Con Video                     | [CernerDevCon][cernerdevcon]      | [Video][https://youtu.be/YCdbh0D1IW8?t=118] |
+| 2014          | Cerner Dev Con Video                     | [CernerDevCon][cernerdevcon]      | [Video][cernerdevcon2014promo] |
 
 # Mentions
 
 | Date          | Where                             |
+| 2017/01/     | [ReleaseTeam][releaseteam2017]
 | 2016/12/06    | [Chef Blog][chef12062016]         |
 | 2016/11/01    | [Chef Blog][chef11012016]         |
 | 2016/11/02    | [Chris Stein's Blog][chrissteinblog] |
@@ -100,6 +101,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [splunkconf2014vid]: https://conf.splunk.com/session/2014/conf2014_CharlieHuggard_Cerner_ITOperations.mp4
 [splunkconf2015vid]: http://conf.splunk.com/session/2015/recordings/2015-splunk-ct5.mp4
 [cernerdevcon2014]: https://www.youtube.com/watch?v=4f5QrgDmYz8&t=11s
+[cernerdevcon2014promo]: https://youtu.be/YCdbh0D1IW8?t=118
 [cernerdevcon2013]: https://www.youtube.com/watch?v=p513NVac6C8
 
 [stlslchatops2017slides]: https://speakerdeck.com/aaronblythe/voice-controlled-chatops-for-the-remote-worker
@@ -113,6 +115,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [splunk2014slides]: https://conf.splunk.com/session/2014/conf2014_CharlieHuggard_Cerner_ITOperations.pdf
 [cernerdevcon2013slides]: https://www.slideshare.net/AaronBlythe/zabbix-beyond-thunderdome
 
+[releaseteam2017]: https://www.releaseteam.com/newsletters/jan2017.pdf
 [chef12062016]: https://blog.chef.io/2016/12/06/tis-the-season-for-putting-customers-first/
 [chef11012016]: https://blog.chef.io/2016/11/01/chef-at-devopsdays-kansas-city/
 [chef05082013]: https://blog.chef.io/2013/05/08/chef-10-26-0-released/
