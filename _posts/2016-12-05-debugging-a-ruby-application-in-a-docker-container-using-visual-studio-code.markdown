@@ -40,7 +40,7 @@ hellorubyvscode_1  | Fast Debugger (ruby-debug-ide 0.6.0, debase 0.2.1, file fil
 
 It will wait here until you Navigate the to Debug View in Visual Studio Code and click the Play button on "Attach to Docker". After it attaches 
 
-![start-vs-code-debugger]({{ site.url }}/images/start_vs_code_debug.png){:class="img-responsive"}
+![start-vs-code-debugger]({{ site.url }}/assets/start_vs_code_debug.png){:class="img-responsive"}
 
 then you should see:
 
@@ -54,7 +54,7 @@ From here set a breakpoint in the code in myapp.rb. Then navigate to http://0.0.
 
 You should now hit the breakpoint and be able to step over or step into or play.
 
-![debugging]({{ site.url }}/images/debugging.png){:class="img-responsive"}
+![debugging]({{ site.url }}/assets/debugging.png){:class="img-responsive"}
 
 
 
