@@ -28,21 +28,21 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
-  - jekyll-assets
+  #- jekyll-assets
   - bootstrap-sass
   - uglifier
 exclude:
   - Gemfile
   - Gemfile.lock
-assets:
-  assets:
-    - "*.png"
-    - "*.jpg"
-  sources:
-    - _assets/images
-    - _assets/images/icons
-    - _assets/javascripts
-    - _assets/stylesheets
-  compress:
-    css:  sass
-    js:   uglifier
+#assets:
+#  assets:
+#    - "*.png"
+#    - "*.jpg"
+#  sources:
+#    - assets/images
+#    - assets/images/icons
+#    - assets/javascripts
+#    - assets/css
+#  compress:
+#    css:  sass
+#    js:   uglifier

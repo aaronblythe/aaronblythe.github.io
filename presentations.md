@@ -10,55 +10,55 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/assets/icons/kcdc.png)][kcdc2017]                   | Coming | Coming |
-| 2017/05/20 | Introduction to Shodan                   | [![bsideskc-icon]({{ site.url }}/assets/icons/bsideskc.png)][bsideskc2017]             | Coming | Coming |
-| 2017/05/02 | Test Kitchen and Inspec for your Infra   | [![silverlinings-icon]({{ site.url }}/assets/icons/silverlinings.png)][silverlinings2017] | [Slides][stlsltestkitchen2017slides] | [Video][stlsltestkitchen2017vid] |
-| 2017/05/03 | Voice Driven ChatOps for Remote Worker   | [![silverlinings-icon]({{ site.url }}/assets/icons/silverlinings.png)][silverlinings2017] | [Slides][stlslchatops2017slides] | [Video][stlslchatops2017vid] |
-| 2016/11/09 | Lean for Outages (ChatOps)               | [![leanagilekc-icon]({{ site.url }}/assets/icons/leanagilekc.png)][leanagilekc2016]    | [Slides][leanagilekc2016slides] | [Video][leanagilekc2016vid] |
-| 2016/10/20 | Ignite: Failure and the Third Way        | [![devopsdayskc-icon]({{ site.url }}/assets/icons/devopsdayskc.png)][devopsdayskc2016] | [Slides][devopsdayskc2016slides] | [Video][devopsdayskc2016failvid] |
-| 2016/09/28 | Change your password                     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]           | [Slides][changeyourpasswordslides] | [Video][changeyourpasswordvid] |
-| 2016/08/31 | Visual Studio Code and Ruby              | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]           | [Slides][visualstudiorubyslides] | [Video][visualstudioruby] |
-| 2016/08/22 | Voice Driven ChatOps for Remote Worker   | [![midwestio-icon]({{ site.url }}/assets/icons/midwestio.png)][midwestio]              | N/A | [Coming?][midwestio2016vidlist] |
-| 2016/07/12 | Enterprise Chef: Bringing Teams Together | [![chefconf-icon]({{ site.url }}/assets/icons/chef.png)][chefconf]                     | Slides | [Video][chefconf2016vid] |
-| 2016/04/28 | Continuous Delivery                      | [![uofiwebcon-icon]({{ site.url }}/assets/icons/uofiwebcon.png)][uofiwebcon]           | [Slides][uofiwebcon2016slides] | N/A   |
-| 2016/03/22 | Chef and Docker: Where is the line?      | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]           | [Slides][kcdevopsmeetupmar2016slides] | [Video][kcdevopsmeetupmar2016vid] |
-| 2015/10/27 | Continuous Delivery                      | [![leanagilekc-icon]({{ site.url }}/assets/icons/leanagilekc.png)][leanagilekc2015]    | [Slides][leanagilekc2015slides] | N/A   |
-| 2015/09/23 | Guerilla Marketing                       | [![splunk15-icon]({{ site.url }}/assets/icons/splunk15.png)][splunkconf]               | [Slides][splunk2015slides] | [Video][splunkconf2015vid] |
-| 2015/06/11 | Continuous Delivery                      | [![cerner-icon]({{ site.url }}/assets/icons/cerner.png)][cernerdevcon]                 | [Slides][cernerdevcon2015slides] | N/A |
-| 2015/04/01 | Cleaning up the Kitchen: Enterprise Chef | [![chefconf-icon]({{ site.url }}/assets/icons/chef.png)][chefconf]                     | [Slides][chefconf2015slides] | [Video][chefconf2015vid] |
-| 2014/10/08 | Cooking up Splunk (With Charlie Huggard) | [![splunk14-icon]({{ site.url }}/assets/icons/splunk14.png)][splunkconf]               | [Slides][splunk2014slides] | [Video][splunkconf2014vid] |
-| 2014/07/01 | Promises, Promises (Promise Theory)      | [![cerner-icon]({{ site.url }}/assets/icons/cerner.png)][cernerdevcon]                 | Slides | [Video][cernerdevcon2014] |
-| 2014/04/08 | Splunk Live! Kansas City                 | [![splunklive-icon]({{ site.url }}/assets/icons/splunklive.png)][splvkc]               | N/A | N/A   |
-| 2013/06/21 | Zabbix: Beyond Thunderdome               | [![cerner-icon]({{ site.url }}/assets/icons/cerner.png)][cernerdevcon]                 | [Slides][cernerdevcon2013slides] | [Video][cernerdevcon2013]
+| 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | Coming | Coming |
+| 2017/05/20 | Introduction to Shodan                   | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2017]             | Coming | Coming |
+| 2017/05/02 | Test Kitchen and Inspec for your Infra   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlsltestkitchen2017slides] | [Video][stlsltestkitchen2017vid] |
+| 2017/05/03 | Voice Driven ChatOps for Remote Worker   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlslchatops2017slides] | [Video][stlslchatops2017vid] |
+| 2016/11/09 | Lean for Outages (ChatOps)               | [![leanagilekc-icon]({{ site.url }}/images/icons/leanagilekc.png)][leanagilekc2016]    | [Slides][leanagilekc2016slides] | [Video][leanagilekc2016vid] |
+| 2016/10/20 | Ignite: Failure and the Third Way        | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016] | [Slides][devopsdayskc2016slides] | [Video][devopsdayskc2016failvid] |
+| 2016/09/28 | Change your password                     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]           | [Slides][changeyourpasswordslides] | [Video][changeyourpasswordvid] |
+| 2016/08/31 | Visual Studio Code and Ruby              | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]           | [Slides][visualstudiorubyslides] | [Video][visualstudioruby] |
+| 2016/08/22 | Voice Driven ChatOps for Remote Worker   | [![midwestio-icon]({{ site.url }}/images/icons/midwestio.png)][midwestio]              | N/A | [Coming?][midwestio2016vidlist] |
+| 2016/07/12 | Enterprise Chef: Bringing Teams Together | [![chefconf-icon]({{ site.url }}/images/icons/chef.png)][chefconf]                     | Slides | [Video][chefconf2016vid] |
+| 2016/04/28 | Continuous Delivery                      | [![uofiwebcon-icon]({{ site.url }}/images/icons/uofiwebcon.png)][uofiwebcon]           | [Slides][uofiwebcon2016slides] | N/A   |
+| 2016/03/22 | Chef and Docker: Where is the line?      | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]           | [Slides][kcdevopsmeetupmar2016slides] | [Video][kcdevopsmeetupmar2016vid] |
+| 2015/10/27 | Continuous Delivery                      | [![leanagilekc-icon]({{ site.url }}/images/icons/leanagilekc.png)][leanagilekc2015]    | [Slides][leanagilekc2015slides] | N/A   |
+| 2015/09/23 | Guerilla Marketing                       | [![splunk15-icon]({{ site.url }}/images/icons/splunk15.png)][splunkconf]               | [Slides][splunk2015slides] | [Video][splunkconf2015vid] |
+| 2015/06/11 | Continuous Delivery                      | [![cerner-icon]({{ site.url }}/images/icons/cerner.png)][cernerdevcon]                 | [Slides][cernerdevcon2015slides] | N/A |
+| 2015/04/01 | Cleaning up the Kitchen: Enterprise Chef | [![chefconf-icon]({{ site.url }}/images/icons/chef.png)][chefconf]                     | [Slides][chefconf2015slides] | [Video][chefconf2015vid] |
+| 2014/10/08 | Cooking up Splunk (With Charlie Huggard) | [![splunk14-icon]({{ site.url }}/images/icons/splunk14.png)][splunkconf]               | [Slides][splunk2014slides] | [Video][splunkconf2014vid] |
+| 2014/07/01 | Promises, Promises (Promise Theory)      | [![cerner-icon]({{ site.url }}/images/icons/cerner.png)][cernerdevcon]                 | Slides | [Video][cernerdevcon2014] |
+| 2014/04/08 | Splunk Live! Kansas City                 | [![splunklive-icon]({{ site.url }}/images/icons/splunklive.png)][splvkc]               | N/A | N/A   |
+| 2013/06/21 | Zabbix: Beyond Thunderdome               | [![cerner-icon]({{ site.url }}/images/icons/cerner.png)][cernerdevcon]                 | [Slides][cernerdevcon2013slides] | [Video][cernerdevcon2013]
 
 # MC
 
 | Date       | Presentation               | Event                                                                                 | Video |
 | :--------: | :------------------------: |:-------------------------------------------------------------------------------------:|:------:|
-| 2017/04/04 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupapr2017annvid] | 
-| 2017/03/21 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmar2017annvid] | 
-| 2017/02/21 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupfeb2017annvid] | 
-| 2017/01/17 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjan2017annvid] | 
-| 2016/12/06 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupdec2016annvid] | 
-| 2016/11/01 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupnov2016annvid] | 
-| 2016/10/21 | Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/assets/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday2introvid] |
-| 2016/10/20 | Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/assets/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday1introvid] |
-| 2016/09/28 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupsept2016annvid] |
-| 2016/08/31 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupaug2016annvid] |
-| 2016/04/19 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupapr2016annvid] |
-| 2016/03/22 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmar2016annvid] |
-| 2016/02/18 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupfeb2016annvid] |
-| 2016/01/21 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/assets/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjan2016annvid] |
+| 2017/04/04 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupapr2017annvid] | 
+| 2017/03/21 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmar2017annvid] | 
+| 2017/02/21 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupfeb2017annvid] | 
+| 2017/01/17 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjan2017annvid] | 
+| 2016/12/06 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupdec2016annvid] | 
+| 2016/11/01 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupnov2016annvid] | 
+| 2016/10/21 | Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday2introvid] |
+| 2016/10/20 | Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday1introvid] |
+| 2016/09/28 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupsept2016annvid] |
+| 2016/08/31 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupaug2016annvid] |
+| 2016/04/19 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupapr2016annvid] |
+| 2016/03/22 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmar2016annvid] |
+| 2016/02/18 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupfeb2016annvid] |
+| 2016/01/21 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjan2016annvid] |
 
 # Interviews and Podcasts
 
 | Date       | Presentation                   | Event                                                                       | Video |
 | :--------: | :----------------------------: |:---------------------------------------------------------------------------:|:------:|
-| 2016/10/22 | DevOpsDays KC Recap            | [![devopsdayskc-icon]({{ site.url }}/assets/icons/devopsdayskc.png)][devopsdayskc2016] | [Video][devopsdayskcday2introvid] |
-| 2016/07/12 | Chef Box: Autonomation         | [![chef-icon]({{ site.url }}/assets/icons/chef.png)][chefconf]              | [Video][chefconfbox2016aaron]      |
-| 2016/07/12 | Chef Box: Interview            | [![chef-icon]({{ site.url }}/assets/icons/chef.png)][chefconf]              | [Video][chefconfbox2016interview]  |
-| 2014/08/28 | Arrested DevOps 19 Dev to Ops  | [![ado-icon]({{ site.url }}/assets/icons/ado.png)][arresteddevops]          | [Video][arresteddevops19vid]       |
-| 2014       | Cerner Dev Con Video           | [![cerner-icon]({{ site.url }}/assets/icons/cerner.png)][cernerdevcon]      | [Video][cernerdevcon2014promo]     |
+| 2016/10/22 | DevOpsDays KC Recap            | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016] | [Video][devopsdayskcday2introvid] |
+| 2016/07/12 | Chef Box: Autonomation         | [![chef-icon]({{ site.url }}/images/icons/chef.png)][chefconf]              | [Video][chefconfbox2016aaron]      |
+| 2016/07/12 | Chef Box: Interview            | [![chef-icon]({{ site.url }}/images/icons/chef.png)][chefconf]              | [Video][chefconfbox2016interview]  |
+| 2014/08/28 | Arrested DevOps 19 Dev to Ops  | [![ado-icon]({{ site.url }}/images/icons/ado.png)][arresteddevops]          | [Video][arresteddevops19vid]       |
+| 2014       | Cerner Dev Con Video           | [![cerner-icon]({{ site.url }}/images/icons/cerner.png)][cernerdevcon]      | [Video][cernerdevcon2014promo]     |
 
 # Mentions
 

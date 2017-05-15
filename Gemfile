@@ -23,7 +23,8 @@ gem 'uglifier'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-assets'
+  # assets to not appear to work on github pages
+  #gem 'jekyll-assets'
   gem 'jekyll-feed'
   #gem 'jekyll-theme-tactile'
 end

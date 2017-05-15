@@ -89,7 +89,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start 
 --*/
 #slider {
-  background: url("aaronblythe_fadetoblack.jpg") no-repeat;
+  background: url("/images/aaronblythe_fadetoblack.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -350,7 +350,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start 
 --*/
 #global-header {
-  background: url("aaronblythe_fadetoblack.jpeg") no-repeat;
+  background: url("/images/aaronblythe_fadetoblack.jpeg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -599,7 +599,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	slider-contact Start 
 --*/
 #slider-contact {
-  background: url("aaronblythe_fadetoblack.jpeg") no-repeat;
+  background: url("/images/aaronblythe_fadetoblack.jpeg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
