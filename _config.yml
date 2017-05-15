@@ -22,11 +22,27 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ablythe
 github_username:  aaronblythe
 
+
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-assets
+  - bootstrap-sass
+  - uglifier
 exclude:
   - Gemfile
   - Gemfile.lock
+assets:
+  assets:
+    - "*.png"
+    - "*.jpg"
+  sources:
+    - _assets/images
+    - _assets/images/icons
+    - _assets/javascripts
+    - _assets/stylesheets
+  compress:
+    css:  sass
+    js:   uglifier
