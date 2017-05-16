@@ -1,0 +1,1 @@
+$(document.body).append("<img src=\"/images/aaron_presenting.jpg\" alt=\"Aaron Blythe\">");

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: presenting
 title: Presentations
 permalink: /presentations/
 ---

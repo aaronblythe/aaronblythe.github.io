@@ -5,8 +5,14 @@
 
   <body>
     {% include header.html %}
-    {% include slider.html %}
-    {% include testimonials.html %}
+    {% include slider_presenting.html %}
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+
     {% include footer.html %}
 
     {% if site.google_analytics %}
