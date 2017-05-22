@@ -11,7 +11,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
 | 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | Coming | Coming |
-| 2017/05/20 | Introduction to Shodan                   | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2017]             | Coming | Coming |
+| 2017/05/20 | Introduction to Shodan                   | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2017]             | [Slides][bsideskc2017slides] | Coming |
 | 2017/05/02 | Test Kitchen and Inspec for your Infra   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlsltestkitchen2017slides] | [Video][stlsltestkitchen2017vid] |
 | 2017/05/03 | Voice Driven ChatOps for Remote Worker   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlslchatops2017slides] | [Video][stlslchatops2017vid] |
 | 2016/11/09 | Lean for Outages (ChatOps)               | [![leanagilekc-icon]({{ site.url }}/images/icons/leanagilekc.png)][leanagilekc2016]    | [Slides][leanagilekc2016slides] | [Video][leanagilekc2016vid] |
@@ -120,6 +120,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon2014promo]: https://youtu.be/YCdbh0D1IW8?t=118
 [cernerdevcon2013]: https://www.youtube.com/watch?v=p513NVac6C8
 
+[bsideskc2017slides]: https://speakerdeck.com/aaronblythe/introduction-to-shodan
 [stlslchatops2017slides]: https://speakerdeck.com/aaronblythe/voice-controlled-chatops-for-the-remote-worker
 [stlsltestkitchen2017slides]: https://github.com/aaronblythe/hello_webpage_chef/tree/master/Presentation
 [leanagilekc2016slides]: https://speakerdeck.com/aaronblythe/chatops-for-outages-at-lean-agile-kc
