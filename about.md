@@ -10,3 +10,7 @@ about how things work and fit together.
 His work history can be found on [LinkedIn](https://www.linkedin.com/in/aaronblythe)
 
 You will also find out more on [About.me](https://about.me/aaronblythe)
+
+[word resume](../images/aaron_resume_timeline.docx)
+[pdf resume](../images/aaron_resume_timeline.pdf)
+
