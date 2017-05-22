@@ -131,7 +131,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [kcdevopsmeetupmar2016slides]: https://speakerdeck.com/aaronblythe/chef-and-docker-where-is-the-line
 [leanagilekc2015slides]: https://www.slideshare.net/AaronBlythe/creating-a-pipeline-leanagilekc-2015
 [splunk2015slides]: http://conf.splunk.com/session/2015/conf2015_ABlythe_Splunk_Adopting_GuerrillaMarketingHowTo.pdf
-[cernerdevcon2015slides]: https://www.slideshare.net/AaronBlythe/chefconf-2015-cleaning-up-the-kitchen
+[cernerdevcon2015slides]: https://www.slideshare.net/AaronBlythe/continuous-delivery-devcon-2015
 [chefconf2015slides]: https://www.slideshare.net/AaronBlythe/chefconf-2015-cleaning-up-the-kitchen
 [splunk2014slides]: https://conf.splunk.com/session/2014/conf2014_CharlieHuggard_Cerner_ITOperations.pdf
 [cernerdevcon2013slides]: https://www.slideshare.net/AaronBlythe/zabbix-beyond-thunderdome
