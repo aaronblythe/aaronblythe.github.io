@@ -19,6 +19,8 @@ Then in iMovie import the entire folder of images of the slides.
 
 Drag and drop the first slide above the video.  Then pull the slide until the presenter clicks on the slide in the video.
 
+![timeline]({{ site.url }}/images/imovie/timeline.png){:class="img-responsive"}
+
 Use the ![crop]({{ site.url }}/images/imovie/crop.png){:class="img-responsive"} button to remove the Ken Burns effect and just select “fit”.
 
 ![fit]({{ site.url }}/images/imovie/fit.png){:class="img-responsive"}
