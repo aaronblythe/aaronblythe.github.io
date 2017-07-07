@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kubernetes Hands On Tutorial"
-date:   2017-05-23 20:00:00 -0600
+date:   2017-07-07 10:00:00 -0600
 categories: kubernetes
 ---
 
