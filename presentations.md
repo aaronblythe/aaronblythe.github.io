@@ -15,7 +15,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2017/07/21 | Introduction to Shodan |[![bsidesspfd-icon]({{ site.url }}/images/icons/bsidesspfd.png)][bsidesspfd2017] | Coming | Coming |
 | 2017/07/20 | Voice Driven ChatOps for Remote Worker | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | Coming | Coming |
 | 2017/07/20 | Trust, Just Culture and Blameless Post Mortems | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | Coming | Coming |
-| 2017/05/20 | Introduction to Shodan                   | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2017]             | [Slides][bsideskc2017slides] | Coming |
+| 2017/05/20 | Introduction to Shodan                   | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2017]             | [Slides][bsideskc2017slides] | [Video][bsideskc2017vid] |
 | 2017/05/02 | Test Kitchen and Inspec for your Infra   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlsltestkitchen2017slides] | [Video][stlsltestkitchen2017vid] |
 | 2017/05/03 | Voice Driven ChatOps for Remote Worker   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlslchatops2017slides] | [Video][stlslchatops2017vid] |
 | 2016/11/09 | Lean for Outages (ChatOps)               | [![leanagilekc-icon]({{ site.url }}/images/icons/leanagilekc.png)][leanagilekc2016]    | [Slides][leanagilekc2016slides] | [Video][leanagilekc2016vid] |
@@ -94,6 +94,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon]: https://twitter.com/cernereng
 [splvkc]: http://live.splunk.com/kansascity
 
+[bsideskc2017vid]: https://www.youtube.com/watch?v=elnKbIvl_lI
 [stlslchatops2017vid]: https://youtu.be/u6NSjWU8QeE
 [stlsltestkitchen2017vid]: https://youtu.be/q1RQPl-nw8w
 [kcdevopsmeetupmay2017annvid]: https://www.youtube.com/watch?v=aPQuPvOsB0g
