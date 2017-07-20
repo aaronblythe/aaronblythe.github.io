@@ -11,6 +11,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
 | 2017/10/23 | Running a meetup over 4 years | [![allthingsopen-icon]({{ site.url }}/images/icons/allthingsopen.png)][allthingsopen2017] | Coming | Coming |
+| 2017/08/17 | Introduction to Shodan |[![secdsm-icon]({{ site.url }}/images/icons/secdsm.jpg)][secdsm] | Coming | Coming |
 | 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | Coming | Coming |
 | 2017/07/21 | Introduction to Shodan |[![bsidesspfd-icon]({{ site.url }}/images/icons/bsidesspfd.png)][bsidesspfd2017] | Coming | Coming |
 | 2017/07/20 | Voice Driven ChatOps for Remote Worker | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | Coming | Coming |
@@ -77,6 +78,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2002       | [Kool Katz Testimonials][koolkatz]         |
 
 [allthingsopen2017]: https://allthingsopen.org/
+[secdsm]: https://secdsm.org/
 [kcdc2017]: http://kcdc.info
 [bsidesspfd2017]: http://www.securitybsides.com/w/page/116970567/BSidesSpfd
 [tulsatechfest2017]: http://techfests.com/Tulsa/2017/default.aspx
