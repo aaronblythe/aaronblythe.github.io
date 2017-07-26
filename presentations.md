@@ -11,11 +11,11 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
 | 2017/10/23 | Running a meetup over 4 years | [![allthingsopen-icon]({{ site.url }}/images/icons/allthingsopen.png)][allthingsopen2017] | Coming | Coming |
-| 2017/08/17 | Introduction to Shodan |[![secdsm-icon]({{ site.url }}/images/icons/secdsm.jpg)][secdsm] | Coming | Coming |
-| 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | Coming | Coming |
-| 2017/07/21 | Introduction to Shodan |[![bsidesspfd-icon]({{ site.url }}/images/icons/bsidesspfd.png)][bsidesspfd2017] | Coming | Coming |
-| 2017/07/20 | Voice Driven ChatOps for Remote Worker | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | Coming | Coming |
-| 2017/07/20 | Trust, Just Culture and Blameless Post Mortems | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | Coming | Coming |
+| 2017/08/17 | Introduction to Shodan |[![secdsm-icon]({{ site.url }}/images/icons/secdsm.jpg)][secdsm] | [Slides][bsideskc2017slides] | Coming |
+| 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | [Slides][trustjustcultureslides] | Coming |
+| 2017/07/21 | Introduction to Shodan |[![bsidesspfd-icon]({{ site.url }}/images/icons/bsidesspfd.png)][bsidesspfd2017] | [Slides][bsideskc2017slides] | Coming |
+| 2017/07/20 | Voice Driven ChatOps for Remote Worker | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | N/A | N/A |
+| 2017/07/20 | Trust, Just Culture and Blameless Post Mortems | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | [Slides][trustjustcultureslides] | [Video][tulsatechfest2017trustvid] |
 | 2017/05/20 | Introduction to Shodan                   | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2017]             | [Slides][bsideskc2017slides] | [Video][bsideskc2017vid] |
 | 2017/05/02 | Test Kitchen and Inspec for your Infra   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlsltestkitchen2017slides] | [Video][stlsltestkitchen2017vid] |
 | 2017/05/03 | Voice Driven ChatOps for Remote Worker   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlslchatops2017slides] | [Video][stlslchatops2017vid] |
@@ -96,6 +96,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon]: https://twitter.com/cernereng
 [splvkc]: http://live.splunk.com/kansascity
 
+[tulsatechfest2017trustvid]: https://youtu.be/OLSl1oJ8Okk
 [bsideskc2017vid]: https://www.youtube.com/watch?v=elnKbIvl_lI
 [stlslchatops2017vid]: https://youtu.be/u6NSjWU8QeE
 [stlsltestkitchen2017vid]: https://youtu.be/q1RQPl-nw8w
@@ -132,6 +133,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon2014promo]: https://youtu.be/YCdbh0D1IW8?t=118
 [cernerdevcon2013]: https://www.youtube.com/watch?v=p513NVac6C8
 
+[trustjustcultureslides]: https://speakerdeck.com/aaronblythe/trust-just-culture-and-blameless-post-mortem
 [bsideskc2017slides]: https://speakerdeck.com/aaronblythe/introduction-to-shodan
 [stlslchatops2017slides]: https://speakerdeck.com/aaronblythe/voice-controlled-chatops-for-the-remote-worker
 [stlsltestkitchen2017slides]: https://github.com/aaronblythe/hello_webpage_chef/tree/master/Presentation
