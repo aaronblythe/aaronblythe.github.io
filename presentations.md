@@ -12,7 +12,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
 | 2017/10/23 | Running a meetup over 4 years | [![allthingsopen-icon]({{ site.url }}/images/icons/allthingsopen.png)][allthingsopen2017] | Coming | Coming |
 | 2017/08/17 | Introduction to Shodan |[![secdsm-icon]({{ site.url }}/images/icons/secdsm.jpg)][secdsm] | [Slides][bsideskc2017slides] | Coming |
-| 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | [Slides][trustjustcultureslides] | Coming |
+| 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | [Slides][trustjustcultureslideskcdc] | Coming |
 | 2017/07/21 | Introduction to Shodan |[![bsidesspfd-icon]({{ site.url }}/images/icons/bsidesspfd.png)][bsidesspfd2017] | [Slides][bsideskc2017slides] | Coming |
 | 2017/07/20 | Voice Driven ChatOps for Remote Worker | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | N/A | N/A |
 | 2017/07/20 | Trust, Just Culture and Blameless Post Mortems | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | [Slides][trustjustcultureslides] | [Video][tulsatechfest2017trustvid] |
@@ -133,6 +133,8 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon2014promo]: https://youtu.be/YCdbh0D1IW8?t=118
 [cernerdevcon2013]: https://www.youtube.com/watch?v=p513NVac6C8
 
+
+[trustjustcultureslideskcdc]: https://speakerdeck.com/aaronblythe/trust-just-culture-and-blameless-post-mortem-kcdc
 [trustjustcultureslides]: https://speakerdeck.com/aaronblythe/trust-just-culture-and-blameless-post-mortem
 [bsideskc2017slides]: https://speakerdeck.com/aaronblythe/introduction-to-shodan
 [stlslchatops2017slides]: https://speakerdeck.com/aaronblythe/voice-controlled-chatops-for-the-remote-worker
