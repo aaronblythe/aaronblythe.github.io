@@ -12,7 +12,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
 | 2017/10/23 | Running a meetup over 4 years | [![allthingsopen-icon]({{ site.url }}/images/icons/allthingsopen.png)][allthingsopen2017] | Coming | Coming |
 | 2017/08/17 | Introduction to Shodan |[![secdsm-icon]({{ site.url }}/images/icons/secdsm.jpg)][secdsm] | [Slides][bsideskc2017slides] | Coming |
-| 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | [Slides][trustjustcultureslideskcdc] | Coming |
+| 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | [Slides][trustjustcultureslideskcdc] | [Video][kcdc2017trustvid] |
 | 2017/07/21 | Introduction to Shodan |[![bsidesspfd-icon]({{ site.url }}/images/icons/bsidesspfd.png)][bsidesspfd2017] | [Slides][bsideskc2017slides] | Coming |
 | 2017/07/20 | Voice Driven ChatOps for Remote Worker | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | N/A | N/A |
 | 2017/07/20 | Trust, Just Culture and Blameless Post Mortems | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | [Slides][trustjustcultureslides] | [Video][tulsatechfest2017trustvid] |
@@ -96,6 +96,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon]: https://twitter.com/cernereng
 [splvkc]: http://live.splunk.com/kansascity
 
+[kcdc2017trustvid]: https://www.youtube.com/watch?v=R-v2nXmTiAo
 [tulsatechfest2017trustvid]: https://youtu.be/OLSl1oJ8Okk
 [bsideskc2017vid]: https://www.youtube.com/watch?v=elnKbIvl_lI
 [stlslchatops2017vid]: https://youtu.be/u6NSjWU8QeE
