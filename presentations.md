@@ -16,6 +16,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2017/07/21 | Introduction to Shodan |[![bsidesspfd-icon]({{ site.url }}/images/icons/bsidesspfd.png)][bsidesspfd2017] | [Slides][bsideskc2017slides] | Coming |
 | 2017/07/20 | Voice Driven ChatOps for Remote Worker | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | N/A | N/A |
 | 2017/07/20 | Trust, Just Culture and Blameless Post Mortems | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | [Slides][trustjustcultureslides] | [Video][tulsatechfest2017trustvid] |
+| 2017/07/18 | Hands On Kubernetes Discussion | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]           | N/A | [Video][devopsdayskc2017kubesvid] |
 | 2017/05/20 | Introduction to Shodan                   | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2017]             | [Slides][bsideskc2017slides] | [Video][bsideskc2017vid] |
 | 2017/05/02 | Test Kitchen and Inspec for your Infra   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlsltestkitchen2017slides] | [Video][stlsltestkitchen2017vid] |
 | 2017/05/03 | Voice Driven ChatOps for Remote Worker   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlslchatops2017slides] | [Video][stlslchatops2017vid] |
@@ -40,6 +41,10 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date       | Presentation               | Event                                                                                 | Video |
 | :--------: | :------------------------: |:-------------------------------------------------------------------------------------:|:------:|
+| 2016/10/21 | 2017 Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| Coming |
+| 2016/10/20 | 2017 Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| Coming |
+| 2017/06/27 | KC DevOps Meetup News     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017newsvid] | 
+| 2017/06/27 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017annvid] | 
 | 2017/05/16 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmay2017annvid] | 
 | 2017/04/04 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupapr2017annvid] | 
 | 2017/03/21 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmar2017annvid] | 
@@ -47,8 +52,8 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2017/01/17 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjan2017annvid] | 
 | 2016/12/06 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupdec2016annvid] | 
 | 2016/11/01 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupnov2016annvid] | 
-| 2016/10/21 | Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday2introvid] |
-| 2016/10/20 | Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday1introvid] |
+| 2016/10/21 | 2016 Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday2introvid] |
+| 2016/10/20 | 2016 Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday1introvid] |
 | 2016/09/28 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupsept2016annvid] |
 | 2016/08/31 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupaug2016annvid] |
 | 2016/04/19 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupapr2016annvid] |
@@ -78,6 +83,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2002       | [Kool Katz Testimonials][koolkatz]         |
 
 [leanagilekc2017]: http://2017.leanagilekc.com/
+[devopsdayskc2017]: https://www.devopsdays.org/events/2017-kansascity/welcome/
 [secdsm]: https://secdsm.org/
 [kcdc2017]: http://kcdc.info
 [bsidesspfd2017]: http://www.securitybsides.com/w/page/116970567/BSidesSpfd
@@ -87,7 +93,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [leanagilekc2016]: http://2016.leanagilekc.com/
 [leanagilekc2015]: http://2015.leanagilekc.com/
 [kcdevopsmeetup]: http://www.meetup.com/DevOps-Kansas-City/
-[devopsdayskc2016]: http://devopsdayskc.org
+[devopsdayskc2016]: https://www.devopsdays.org/events/2016-kansascity/welcome/
 [midwestio]: http://www.midwest.io/
 [chefconf]: https://chefconf.chef.io/
 [uofiwebcon]: http://webcon.illinois.edu
@@ -96,9 +102,12 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon]: https://twitter.com/cernereng
 [splvkc]: http://live.splunk.com/kansascity
 
+[kcdevopsmeetupann2016annvid]: https://www.youtube.com/watch?v=-p6UYJZ0oTk
+[kcdevopsmeetupjune2016newsvid]: https://www.youtube.com/watch?v=MNndpayZK9E
 [secdsm2017vid]: https://www.youtube.com/watch?v=ubeTlQwwUss
 [kcdc2017trustvid]: https://www.youtube.com/watch?v=R-v2nXmTiAo
 [tulsatechfest2017trustvid]: https://youtu.be/OLSl1oJ8Okk
+[devopsdayskc2017kubesvid]: https://www.youtube.com/watch?v=wsVXe10qlo8
 [bsideskc2017vid]: https://www.youtube.com/watch?v=elnKbIvl_lI
 [stlslchatops2017vid]: https://youtu.be/u6NSjWU8QeE
 [stlsltestkitchen2017vid]: https://youtu.be/q1RQPl-nw8w
