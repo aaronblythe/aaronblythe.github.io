@@ -102,8 +102,8 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon]: https://twitter.com/cernereng
 [splvkc]: http://live.splunk.com/kansascity
 
-[kcdevopsmeetupann2016annvid]: https://www.youtube.com/watch?v=-p6UYJZ0oTk
-[kcdevopsmeetupjune2016newsvid]: https://www.youtube.com/watch?v=MNndpayZK9E
+[kcdevopsmeetupann2017annvid]: https://www.youtube.com/watch?v=-p6UYJZ0oTk
+[kcdevopsmeetupjune2017newsvid]: https://www.youtube.com/watch?v=MNndpayZK9E
 [secdsm2017vid]: https://www.youtube.com/watch?v=ubeTlQwwUss
 [kcdc2017trustvid]: https://www.youtube.com/watch?v=R-v2nXmTiAo
 [tulsatechfest2017trustvid]: https://youtu.be/OLSl1oJ8Okk
