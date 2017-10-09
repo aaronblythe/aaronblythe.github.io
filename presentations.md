@@ -41,8 +41,8 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date       | Presentation               | Event                                                                                 | Video |
 | :--------: | :------------------------: |:-------------------------------------------------------------------------------------:|:------:|
-| 2016/10/21 | 2017 Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| Coming |
-| 2016/10/20 | 2017 Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| Coming |
+| 2017/09/22 | 2017 Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| Coming |
+| 2017/09/21 | 2017 Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| Coming |
 | 2017/06/27 | KC DevOps Meetup News     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017newsvid] | 
 | 2017/06/27 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017annvid] | 
 | 2017/05/16 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmay2017annvid] | 
