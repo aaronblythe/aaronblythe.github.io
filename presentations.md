@@ -24,7 +24,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2016/10/20 | Ignite: Failure and the Third Way        | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016] | [Slides][devopsdayskc2016slides] | [Video][devopsdayskc2016failvid] |
 | 2016/09/28 | Change your password                     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]           | [Slides][changeyourpasswordslides] | [Video][changeyourpasswordvid] |
 | 2016/08/31 | Visual Studio Code and Ruby              | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]           | [Slides][visualstudiorubyslides] | [Video][visualstudioruby] |
-| 2016/08/22 | Voice Driven ChatOps for Remote Worker   | [![midwestio-icon]({{ site.url }}/images/icons/midwestio.png)][midwestio]              | N/A | [Coming?][midwestio2016vidlist] |
+| 2016/08/22 | Voice Driven ChatOps for Remote Worker   | [![midwestio-icon]({{ site.url }}/images/icons/midwestio.png)][midwestio]              | N/A | [Video][midwestio2016vid] |
 | 2016/07/12 | Enterprise Chef: Bringing Teams Together | [![chefconf-icon]({{ site.url }}/images/icons/chef.png)][chefconf]                     | Slides | [Video][chefconf2016vid] |
 | 2016/04/28 | Continuous Delivery                      | [![uofiwebcon-icon]({{ site.url }}/images/icons/uofiwebcon.png)][uofiwebcon]           | [Slides][uofiwebcon2016slides] | N/A   |
 | 2016/03/22 | Chef and Docker: Where is the line?      | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]           | [Slides][kcdevopsmeetupmar2016slides] | [Video][kcdevopsmeetupmar2016vid] |
@@ -123,7 +123,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [devopsdayskcday1introvid]: https://www.youtube.com/watch?v=vTPElcrSDHk
 [devopsdayskc2016failvid]: https://www.youtube.com/watch?v=XhLwnZKxix8&index=5&list=PLE7tQUdRKcybhZsL8yLODmpwBmerptnqu
 [changeyourpasswordvid]: https://www.youtube.com/watch?v=L5FLpFOezCc
-[midwestio2016vidlist]: https://www.youtube.com/user/midwestio/videos
+[midwestio2016vid]: https://www.youtube.com/watch?v=nctOtUj41VQ
 [kcdevopsmeetupsept2016annvid]: https://www.youtube.com/watch?v=XxIVT2o6SCY
 [kcdevopsmeetupmar2016vid]: https://www.youtube.com/watch?v=9WPw_CqJycE
 [kcdevopsmeetupapr2016annvid]: https://www.youtube.com/watch?v=iEKqh6HSUjE&t=1s
