@@ -43,8 +43,9 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date       | Presentation               | Event                                                                                 | Video |
 | :--------: | :------------------------: |:-------------------------------------------------------------------------------------:|:------:|
-| 2017/09/22 | 2017 Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| Coming |
-| 2017/09/21 | 2017 Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| Coming |
+| 2017/09/22 | 2017 Summary Video                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcsummaryvid2017] |
+| 2017/09/22 | 2017 Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday1introvid2017] |
+| 2017/09/21 | 2017 Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday1introvid2017] |
 | 2017/06/27 | KC DevOps Meetup News     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017newsvid] | 
 | 2017/06/27 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017annvid] | 
 | 2017/05/16 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmay2017annvid] | 
@@ -106,6 +107,9 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon]: https://twitter.com/cernereng
 [splvkc]: http://live.splunk.com/kansascity
 
+[devopsdayskcsummaryvid2017]: https://www.youtube.com/watch?v=9sPIXH-Jabg
+[devopsdayskcday2introvid2017]: https://www.youtube.com/watch?v=ieXvAVNBA1c
+[devopsdayskcday1introvid2017]: https://www.youtube.com/watch?v=2K5ju3sSfgg
 [bsidesiowa2018vid]: https://www.youtube.com/watch?v=mqqNIhp8ojU
 [bsidesspfd2017vid]: https://www.youtube.com/watch?v=zSAZeAgWMYQ
 [kcdevopsmeetupjune2017annvid]: https://www.youtube.com/watch?v=-p6UYJZ0oTk
