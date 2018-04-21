@@ -10,6 +10,8 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
+| 2017/04/21 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2018]    | [Slides][aretheylisteningslides] | coming |
+| 2018/04/14 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsidesiowa-icon]({{ site.url }}/images/icons/bsidesiowa.png)][bsidesiowa2018]    | [Slides][aretheylisteningslides] | [video][bsidesiowa2018vid] |
 | 2017/11/07 | Trust, Just Culture and Blameless Post Mortems | [![leanagilekc-icon]({{ site.url }}/images/icons/leanagilekc.png)][leanagilekc2017]    | [Slides][trustjustcultureslideskcdc] | coming |
 | 2017/08/17 | Introduction to Shodan |[![secdsm-icon]({{ site.url }}/images/icons/secdsm.jpg)][secdsm] | [Slides][bsideskc2017slides] | [Video][secdsm2017vid] |
 | 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | [Slides][trustjustcultureslideskcdc] | [Video][kcdc2017trustvid] |
@@ -82,13 +84,15 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2013/08/03 | [Chef Blog][chef05082013]                  |
 | 2002       | [Kool Katz Testimonials][koolkatz]         |
 
+[bsideskc2018]: https://www.bsideskc.org/
+[bsidesiowa2018]: https://bsidesiowa.com/
 [leanagilekc2017]: http://2017.leanagilekc.com/
 [devopsdayskc2017]: https://www.devopsdays.org/events/2017-kansascity/welcome/
 [secdsm]: https://secdsm.org/
 [kcdc2017]: http://kcdc.info
 [bsidesspfd2017]: http://www.securitybsides.com/w/page/116970567/BSidesSpfd
 [tulsatechfest2017]: http://techfests.com/Tulsa/2017/default.aspx
-[bsideskc2017]: https://www.bsideskc.org/
+[bsideskc2017]: https://2017.bsideskc.org/
 [silverlinings2017]: http://stlsilverlinings.org/
 [leanagilekc2016]: http://2016.leanagilekc.com/
 [leanagilekc2015]: http://2015.leanagilekc.com/
@@ -102,6 +106,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon]: https://twitter.com/cernereng
 [splvkc]: http://live.splunk.com/kansascity
 
+[bsidesiowa2018vid]: https://www.youtube.com/watch?v=mqqNIhp8ojU
 [bsidesspfd2017vid]: https://www.youtube.com/watch?v=zSAZeAgWMYQ
 [kcdevopsmeetupjune2017annvid]: https://www.youtube.com/watch?v=-p6UYJZ0oTk
 [kcdevopsmeetupjune2017newsvid]: https://www.youtube.com/watch?v=MNndpayZK9E
@@ -145,7 +150,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon2014promo]: https://youtu.be/YCdbh0D1IW8?t=118
 [cernerdevcon2013]: https://www.youtube.com/watch?v=p513NVac6C8
 
-
+[aretheylisteningslides]: https://speakerdeck.com/aaronblythe/alexa-and-google-are-listening-how-much-are-they-transmitting
 [trustjustcultureslideskcdc]: https://speakerdeck.com/aaronblythe/trust-just-culture-and-blameless-post-mortem-kcdc
 [trustjustcultureslides]: https://speakerdeck.com/aaronblythe/trust-just-culture-and-blameless-post-mortem
 [bsideskc2017slides]: https://speakerdeck.com/aaronblythe/introduction-to-shodan
