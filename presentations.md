@@ -10,7 +10,8 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2017/04/21 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2018]    | [Slides][aretheylisteningslides] | coming |
+| 2018/09/08 | Introduction to Shodan | |[![secdsm-icon]({{ site.url }}/images/icons/corncon.jpg)][corncon2018] | [Slides][bsideskc2017slides] | [Video][corncon2018vid] |
+| 2018/04/21 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2018]    | [Slides][aretheylisteningslides] | coming |
 | 2018/04/14 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsidesiowa-icon]({{ site.url }}/images/icons/bsidesiowa.png)][bsidesiowa2018]    | [Slides][aretheylisteningslides] | [video][bsidesiowa2018vid] |
 | 2017/11/07 | Trust, Just Culture and Blameless Post Mortems | [![leanagilekc-icon]({{ site.url }}/images/icons/leanagilekc.png)][leanagilekc2017]    | [Slides][trustjustcultureslideskcdc] | coming |
 | 2017/08/17 | Introduction to Shodan |[![secdsm-icon]({{ site.url }}/images/icons/secdsm.jpg)][secdsm] | [Slides][bsideskc2017slides] | [Video][secdsm2017vid] |
@@ -43,9 +44,10 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date       | Presentation               | Event                                                                                 | Video |
 | :--------: | :------------------------: |:-------------------------------------------------------------------------------------:|:------:|
-| 2017/09/22 | 2017 Summary Video                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcsummaryvid2017] |
-| 2017/09/22 | 2017 Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday1introvid2017] |
-| 2017/09/21 | 2017 Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday1introvid2017] |
+| 2018/10/18 | 2018 Intro Day 1       | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2018]| [Video][devopsdayskcday1introvid2018] |
+| 2017/09/22 | 2017 Summary Video     | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcsummaryvid2017]   |
+| 2017/09/22 | 2017 Intro Day 1       | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday1introvid2017] |
+| 2017/09/21 | 2017 Intro Day 2       | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday2introvid2017] |
 | 2017/06/27 | KC DevOps Meetup News     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017newsvid] | 
 | 2017/06/27 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017annvid] | 
 | 2017/05/16 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmay2017annvid] | 
@@ -85,6 +87,8 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2013/08/03 | [Chef Blog][chef05082013]                  |
 | 2002       | [Kool Katz Testimonials][koolkatz]         |
 
+[devopsdayskc2018]: https://www.devopsdays.org/events/2018-kansas-city/welcome/
+[corncon2018]: https://corncon.net/
 [bsideskc2018]: https://www.bsideskc.org/
 [bsidesiowa2018]: https://bsidesiowa.com/
 [leanagilekc2017]: http://2017.leanagilekc.com/
@@ -107,6 +111,9 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon]: https://twitter.com/cernereng
 [splvkc]: http://live.splunk.com/kansascity
 
+
+[devopsdayskcday1introvid2018]: https://www.youtube.com/watch?v=PiyOWzxEcA8
+[corncon2018vid]: https://www.youtube.com/watch?v=yV1TAs4Vxnc
 [devopsdayskcsummaryvid2017]: https://www.youtube.com/watch?v=9sPIXH-Jabg
 [devopsdayskcday2introvid2017]: https://www.youtube.com/watch?v=ieXvAVNBA1c
 [devopsdayskcday1introvid2017]: https://www.youtube.com/watch?v=2K5ju3sSfgg
