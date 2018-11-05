@@ -10,7 +10,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2018/11/30 | RE*WORK: Machine Learning for DevOps Summit | [![rework]({{ site.url }}/images/icons/rework.png)][rework] | N/A | Coming |
+| 2018/11/30 | RE*WORK: Machine Learning for DevOps Summit | [![rework]({{ site.url }}/images/icons/rework.png)][reworkml2018] | N/A | Coming |
 | 2018/10/05 | ChatOps for Incidents | [![rx-savings]({{ site.url }}/images/icons/rxsavings.png)][rxsavings] | [Slides][rxsavings2018slides] | [Photo](https://twitter.com/m_shahzad_z/status/1048298402050707456) |
 | 2018/09/08 | Introduction to Shodan | [![corncon-icon]({{ site.url }}/images/icons/corncon.jpg)][corncon2018] | [Slides][bsideskc2017slides] | [Video][corncon2018vid] |
 | 2018/04/21 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2018]   | [Slides][aretheylisteningslides] | N/A |
@@ -89,6 +89,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2013/08/03 | [Chef Blog][chef05082013]                  |
 | 2002       | [Kool Katz Testimonials][koolkatz]         |
 
+[reworkml2018]: https://www.re-work.co/events/machine-learning-for-devops-summit-2018
 [rxsavings]: https://rxsavingssolutions.com/
 [devopsdayskc2018]: https://www.devopsdays.org/events/2018-kansas-city/welcome/
 [corncon2018]: https://corncon.net/
