@@ -11,7 +11,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
 | 2018/11/30 | RE*WORK: Machine Learning for DevOps Summit | [![rework]({{ site.url }}/images/icons/rework.png)][reworkml2018] | N/A | Coming |
-| 2018/10/05 | ChatOps for Incidents | [![rx-savings]({{ site.url }}/images/icons/rxsavings.png)][rxsavings] | [Slides][rxsavings2018slides] | [Photo](https://twitter.com/m_shahzad_z/status/1048298402050707456) |
+| 2018/10/05 | ChatOps for Incidents | [![rx-savings]({{ site.url }}/images/icons/rx-savings.png)][rxsavings] | [Slides][rxsavings2018slides] | [Photo](https://twitter.com/m_shahzad_z/status/1048298402050707456) |
 | 2018/09/08 | Introduction to Shodan | [![corncon-icon]({{ site.url }}/images/icons/corncon.jpg)][corncon2018] | [Slides][bsideskc2017slides] | [Video][corncon2018vid] |
 | 2018/04/21 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2018]   | [Slides][aretheylisteningslides] | N/A |
 | 2018/04/14 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsidesiowa-icon]({{ site.url }}/images/icons/bsidesiowa.png)][bsidesiowa2018]    | [Slides][aretheylisteningslides] | [video][bsidesiowa2018vid] |
