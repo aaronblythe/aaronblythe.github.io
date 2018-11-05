@@ -10,8 +10,10 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2018/09/08 | Introduction to Shodan | |[![secdsm-icon]({{ site.url }}/images/icons/corncon.jpg)][corncon2018] | [Slides][bsideskc2017slides] | [Video][corncon2018vid] |
-| 2018/04/21 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2018]    | [Slides][aretheylisteningslides] | coming |
+| 2018/11/30 | RE*WORK: Machine Learning for DevOps Summit | [![rework]({{ site.url }}/images/icons/rework.png)][rework] | N/A | Coming |
+| 2018/10/05 | ChatOps for Incidents | [![rx-savings]({{ site.url }}/images/icons/corncon.jpg)][rxsavings] | [Slides][rxsavings2018slides] | [Photo][https://twitter.com/m_shahzad_z/status/1048298402050707456] |
+| 2018/09/08 | Introduction to Shodan | [![corncon-icon]({{ site.url }}/images/icons/corncon.jpg)][corncon2018] | [Slides][bsideskc2017slides] | [Video][corncon2018vid] |
+| 2018/04/21 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2018]   | [Slides][aretheylisteningslides] | N/A |
 | 2018/04/14 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsidesiowa-icon]({{ site.url }}/images/icons/bsidesiowa.png)][bsidesiowa2018]    | [Slides][aretheylisteningslides] | [video][bsidesiowa2018vid] |
 | 2017/11/07 | Trust, Just Culture and Blameless Post Mortems | [![leanagilekc-icon]({{ site.url }}/images/icons/leanagilekc.png)][leanagilekc2017]    | [Slides][trustjustcultureslideskcdc] | coming |
 | 2017/08/17 | Introduction to Shodan |[![secdsm-icon]({{ site.url }}/images/icons/secdsm.jpg)][secdsm] | [Slides][bsideskc2017slides] | [Video][secdsm2017vid] |
@@ -87,6 +89,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2013/08/03 | [Chef Blog][chef05082013]                  |
 | 2002       | [Kool Katz Testimonials][koolkatz]         |
 
+[rxsavings]: https://rxsavingssolutions.com/
 [devopsdayskc2018]: https://www.devopsdays.org/events/2018-kansas-city/welcome/
 [corncon2018]: https://corncon.net/
 [bsideskc2018]: https://www.bsideskc.org/
@@ -161,6 +164,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [cernerdevcon2014promo]: https://youtu.be/YCdbh0D1IW8?t=118
 [cernerdevcon2013]: https://www.youtube.com/watch?v=p513NVac6C8
 
+[rxsavings2018slides]: https://speakerdeck.com/aaronblythe/chatops-for-incidents-72811b66-81c5-4ec2-ac05-4d2e743113a8
 [aretheylisteningslides]: https://speakerdeck.com/aaronblythe/alexa-and-google-are-listening-how-much-are-they-transmitting
 [trustjustcultureslideskcdc]: https://speakerdeck.com/aaronblythe/trust-just-culture-and-blameless-post-mortem-kcdc
 [trustjustcultureslides]: https://speakerdeck.com/aaronblythe/trust-just-culture-and-blameless-post-mortem
