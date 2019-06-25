@@ -4,13 +4,14 @@ title: Presentations
 permalink: /presentations/
 ---
 
-Conference that I have attended and/or presented at on [Lanyard.com](http://lanyrd.com/profile/ablythe/)
-
 # Presentations
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2018/11/30 | RE*WORK: Machine Learning for DevOps Summit | [![rework]({{ site.url }}/images/icons/rework.png)][reworkml2018] | N/A | Coming |
+| 2019/08/27 | DevOpsDays Chicago | [![devopsdayschi-icon]({{ site.url }}/images/icons/devopsdayschi.jpg)][devopsdayschi2019] | [devopsdayskc2016slides] | future |
+| 2019/05/02 | DevOpsDays Des Moines | [![devopsdaysdsm-icon]({{ site.url }}/images/icons/devopsdaysdsm.jpg)][devopsdaysdsm2019] | [devopsdayskc2016slides] | [devopsdaysdsm2019vid] |
+| 2019/04/25 | Kansas City InfoSec Community Showcase | [![seckc-icon]({{ site.url }}/images/icons/seckc.jpg)][kcinfosecshowcase2019] | coming | coming |
+| 2018/11/30 | RE*WORK: Machine Learning for DevOps Summit | [![rework]({{ site.url }}/images/icons/rework.png)][reworkml2018] | N/A | N/A |
 | 2018/10/05 | ChatOps for Incidents | [![rx-savings]({{ site.url }}/images/icons/rx-savings.png)][rxsavings] | [Slides][rxsavings2018slides] | [Photo](https://twitter.com/m_shahzad_z/status/1048298402050707456) |
 | 2018/09/08 | Introduction to Shodan | [![corncon-icon]({{ site.url }}/images/icons/corncon.jpg)][corncon2018] | [Slides][bsideskc2017slides] | [Video][corncon2018vid] |
 | 2018/04/21 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2018]   | [Slides][aretheylisteningslides] | N/A |
@@ -89,6 +90,10 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 | 2013/08/03 | [Chef Blog][chef05082013]                  |
 | 2002       | [Kool Katz Testimonials][koolkatz]         |
 
+
+[devopsdayschi2019]: https://devopsdays.org/events/2019-chicago/welcome/
+[devopsdaysdsm2019]: https://devopsdays.org/events/2019-des-moines/welcome/
+[kcinfosecshowcase2019]: https://www.eventbrite.com/e/kansas-city-infosec-community-showcase-tickets-56732642862
 [reworkml2018]: https://www.re-work.co/events/machine-learning-for-devops-summit-2018
 [rxsavings]: https://rxsavingssolutions.com/
 [devopsdayskc2018]: https://www.devopsdays.org/events/2018-kansas-city/welcome/
@@ -116,6 +121,7 @@ Conference that I have attended and/or presented at on [Lanyard.com](http://lany
 [splvkc]: http://live.splunk.com/kansascity
 
 
+[devopsdaysdsm2019vid]: https://www.youtube.com/watch?v=zjMQslSpDBY
 [devopsdayskcday1introvid2018]: https://www.youtube.com/watch?v=PiyOWzxEcA8
 [corncon2018vid]: https://www.youtube.com/watch?v=yV1TAs4Vxnc
 [devopsdayskcsummaryvid2017]: https://www.youtube.com/watch?v=9sPIXH-Jabg
