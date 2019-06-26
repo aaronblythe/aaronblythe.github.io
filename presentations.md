@@ -11,19 +11,21 @@ permalink: /presentations/
 | 2019/08/27 | DevOpsDays Chicago | [![devopsdayschi-icon]({{ site.url }}/images/icons/devopsdayschi.jpg)][devopsdayschi2019] | [Slides][devopsdayskc2016slides] | future |
 | 2019/05/02 | DevOpsDays Des Moines | [![devopsdaysdsm-icon]({{ site.url }}/images/icons/devopsdaysdsm.jpg)][devopsdaysdsm2019] | [Slides][devopsdayskc2016slides] | [video][devopsdaysdsm2019vid] |
 | 2019/04/25 | Kansas City InfoSec Community Showcase | [![seckc-icon]({{ site.url }}/images/icons/seckc.jpg)][kcinfosecshowcase2019] | coming | coming |
+| 2019/03/12 | Sprint DevOps Community of Practice (Company Lunch-n-learn) | [![sprint-icon]({{ site.url }}/images/icons/sprint.jpg)][sprint] | N/A | N/A |
 | 2018/11/30 | RE*WORK: Machine Learning for DevOps Summit | [![rework]({{ site.url }}/images/icons/rework.png)][reworkml2018] | N/A | N/A |
 | 2018/10/05 | ChatOps for Incidents (Company Lunch-n-learn) | [![rx-savings]({{ site.url }}/images/icons/rx-savings.png)][rxsavings] | [Slides][rxsavings2018slides] | [Photo](https://twitter.com/m_shahzad_z/status/1048298402050707456) |
 | 2018/09/08 | Introduction to Shodan | [![corncon-icon]({{ site.url }}/images/icons/corncon.jpg)][corncon2018] | [Slides][bsideskc2017slides] | [Video][corncon2018vid] |
 | 2018/04/21 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2018]   | [Slides][aretheylisteningslides] | N/A |
-| 2018/04/14 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsidesiowa-icon]({{ site.url }}/images/icons/bsidesiowa.png)][bsidesiowa2018]    | [Slides][aretheylisteningslides] | [video][bsidesiowa2018vid] |
-| 2017/11/07 | Trust, Just Culture and Blameless Post Mortems | [![leanagilekc-icon]({{ site.url }}/images/icons/leanagilekc.png)][leanagilekc2017]    | [Slides][trustjustcultureslideskcdc] | coming |
+| 2018/04/14 | Alexa and Google are listening (How Much Are They Transmitting?) | [![bsidesiowa-icon]({{ site.url }}/images/icons/bsidesiowa.png)][bsidesiowa2018] | [Slides][aretheylisteningslides] | [video][bsidesiowa2018vid] |
+| 2018/03/27 | Running 1000's of Containers at Scale (Interview on Mesosphere) | [![newrelic-icon]({{ site.url }}/images/icons/newrelic.png)][newrelic] | N/A | N/A |
+| 2017/11/07 | Trust, Just Culture and Blameless Post Mortems | [![leanagilekc-icon]({{ site.url }}/images/icons/leanagilekc.png)][leanagilekc2017] | [Slides][trustjustcultureslideskcdc] | coming |
 | 2017/08/17 | Introduction to Shodan |[![secdsm-icon]({{ site.url }}/images/icons/secdsm.jpg)][secdsm] | [Slides][bsideskc2017slides] | [Video][secdsm2017vid] |
-| 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017]                   | [Slides][trustjustcultureslideskcdc] | [Video][kcdc2017trustvid] |
+| 2017/08/04 | Trust, Just Culture and Blameless Post Mortems | [![kcdc-icon]({{ site.url }}/images/icons/kcdc.png)][kcdc2017] | [Slides][trustjustcultureslideskcdc] | [Video][kcdc2017trustvid] |
 | 2017/07/21 | Introduction to Shodan |[![bsidesspfd-icon]({{ site.url }}/images/icons/bsidesspfd.png)][bsidesspfd2017] | [Slides][bsideskc2017slides] | [Video][bsidesspfd2017vid] |
 | 2017/07/20 | Voice Driven ChatOps for Remote Worker | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | N/A | N/A |
 | 2017/07/20 | Trust, Just Culture and Blameless Post Mortems | [![tulsatechfest-icon]({{ site.url }}/images/icons/tulsatechfest.png)][tulsatechfest2017] | [Slides][trustjustcultureslides] | [Video][tulsatechfest2017trustvid] |
-| 2017/07/18 | Hands On Kubernetes Discussion | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]           | N/A | [Video][devopsdayskc2017kubesvid] |
-| 2017/05/20 | Introduction to Shodan                   | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2017]             | [Slides][bsideskc2017slides] | [Video][bsideskc2017vid] |
+| 2017/07/18 | Hands On Kubernetes Discussion | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup] | N/A | [Video][devopsdayskc2017kubesvid] |
+| 2017/05/20 | Introduction to Shodan                   | [![bsideskc-icon]({{ site.url }}/images/icons/bsideskc.png)][bsideskc2017] | [Slides][bsideskc2017slides] | [Video][bsideskc2017vid] |
 | 2017/05/02 | Test Kitchen and Inspec for your Infra   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlsltestkitchen2017slides] | [Video][stlsltestkitchen2017vid] |
 | 2017/05/03 | Voice Driven ChatOps for Remote Worker   | [![silverlinings-icon]({{ site.url }}/images/icons/silverlinings.png)][silverlinings2017] | [Slides][stlslchatops2017slides] | [Video][stlslchatops2017vid] |
 | 2016/11/09 | Lean for Outages (ChatOps)               | [![leanagilekc-icon]({{ site.url }}/images/icons/leanagilekc.png)][leanagilekc2016]    | [Slides][leanagilekc2016slides] | [Video][leanagilekc2016vid] |
@@ -94,12 +96,14 @@ permalink: /presentations/
 [devopsdayschi2019]: https://devopsdays.org/events/2019-chicago/welcome/
 [devopsdaysdsm2019]: https://devopsdays.org/events/2019-des-moines/welcome/
 [kcinfosecshowcase2019]: https://www.eventbrite.com/e/kansas-city-infosec-community-showcase-tickets-56732642862
+[sprint]: https://www.sprint.com/
 [reworkml2018]: https://www.re-work.co/events/machine-learning-for-devops-summit-2018
 [rxsavings]: https://rxsavingssolutions.com/
 [devopsdayskc2018]: https://www.devopsdays.org/events/2018-kansas-city/welcome/
 [corncon2018]: https://corncon.net/
 [bsideskc2018]: https://www.bsideskc.org/
 [bsidesiowa2018]: https://bsidesiowa.com/
+[newrelic]: https://newrelic.com/community/events
 [leanagilekc2017]: http://2017.leanagilekc.com/
 [devopsdayskc2017]: https://www.devopsdays.org/events/2017-kansascity/welcome/
 [secdsm]: https://secdsm.org/
