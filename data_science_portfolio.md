@@ -6,13 +6,15 @@ permalink: /portfolio/
 
 # Data Science Portfolio
 
+Currently a Master's student in Computer Science with a focus on Data Science at the University of Illinois Urbana-Champaign (the [#5 Computer Science program in the nation](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)) with a GPA of 4.0. Here is the work that I can share publicly. I am also working a couple of models at work that I cannot share publicly, but can discuss privately.
+
 ## Machine Learning
 
 ### [Deep Learning Convolutional Neural Network Paper](/images/portfolio/Oculum_afficit.pdf)
 
 [<img align="left" src="/images/portfolio/deep_learning_paper.PNG">](/images/portfolio/Oculum_afficit.pdf)
 
-This was an awesome project where we trained a supervised model on 122 GB of photographs from [AffectNet](http://mohammadmahoor.com/affectnet/) using PySpark, Pandas, OpenCV, Keras, NumPy, and a whole lotta cloud compute.
+This was an awesome project where we trained a supervised Convolutional Neural Network model on 122 GB of photographs from [AffectNet](http://mohammadmahoor.com/affectnet/) using PySpark, Pandas, OpenCV, Keras, NumPy, and a whole lotta cloud compute.
 
 Check out our full [research paper](/images/portfolio/Oculum_afficit.pdf).
 
@@ -52,19 +54,21 @@ In our group project we used the [1990 California Housing Data Set](/images/port
 
 [<img align="left" src="/images/portfolio/tableau_co2.PNG">](https://public.tableau.com/profile/aaron.blythe#!/vizhome/CO2EmissionsperCountryWDIData/Dashboard)
 
-This [Dashboard](https://public.tableau.com/profile/aaron.blythe#!/vizhome/CO2EmissionsperCountryWDIData/Dashboard) shows the last 50 years of CO2 emissions per country across the world. The data is from the [World Development Indicators Data](https://datacatalog.worldbank.org/dataset/world-development-indicators).
+This [Tableau dashboard](https://public.tableau.com/profile/aaron.blythe#!/vizhome/CO2EmissionsperCountryWDIData/Dashboard) shows the last 50 years of CO2 emissions per country across the world. The data is from the [World Development Indicators Data](https://datacatalog.worldbank.org/dataset/world-development-indicators).
 
 <br/>
 <br/>
 <br/>
 <br/>
 
-### [D3 Dashboard using Pokemon Data](https://aaronblythe.gitlab.io/page/pokemon_d3/)
+### [D3 Dashboard using Pokémon Data](https://aaronblythe.gitlab.io/page/pokemon_d3/)
 
 [<img align="left" src="/images/portfolio/pokemon_D3.PNG">](https://aaronblythe.gitlab.io/page/pokemon_d3/)
 
-This was a [fun dashboard](https://aaronblythe.gitlab.io/page/pokemon_d3/) to show off animations and interactions of elements in a D3 set of dashboards. The code for the dashboards can be found at: https://gitlab.com/aaronblythe/aaronblythe.gitlab.io/tree/master/content/page
+This was a [fun dashboard](https://aaronblythe.gitlab.io/page/pokemon_d3/) to show off animations and interactions of elements in a D3 set of dashboards. The code for [the Pokémon dashboards](https://gitlab.com/aaronblythe/aaronblythe.gitlab.io/tree/master/content/page) can be found at my [Gitlab page](https://gitlab.com/aaronblythe/).
 
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -74,7 +78,7 @@ This was a [fun dashboard](https://aaronblythe.gitlab.io/page/pokemon_d3/) to sh
 
 [<img align="left" src="/images/portfolio/alexa_chatops.PNG">](https://www.youtube.com/watch?v=nctOtUj41VQ)
 
-I was able to create the ability to [speak to my full on-call tool set](https://www.youtube.com/watch?v=nctOtUj41VQ) using Alexa, Hubot, PagerDuty API, New Relic API and Sumologic API.
+I was able to create the ability to [speak to my full on-call tool set](https://www.youtube.com/watch?v=nctOtUj41VQ) using Alexa, Hubot, PagerDuty API, New Relic API and Sumologic API. It was awesome to get to present this on an IMAX screen in front of a full theater of 500 people.
 
 <br/>
 <br/>
@@ -85,9 +89,9 @@ I was able to create the ability to [speak to my full on-call tool set](https://
 
 [<img align="left" src="/images/portfolio/sentipy.PNG">](https://www.youtube.com/watch?v=H5xGwsJ76dw)
 
-In this project we mined twitter for tweets about the companies across the airline industry. We used indicators of where the tweet originated to plot the sentiment on a map. This was done in pure python, if I were to do this again, I would do this in a Jupyter notebook as opposed to multiple python scripts.
+In this project we mined twitter for tweets about the companies across the airline industry. We used indicators of where the tweet originated to plot the sentiment on a map. This was done in pure python, if I were to do this again, I would do this in a Jupyter notebook as opposed to multiple python scripts. Join us for a [walk thru](https://www.youtube.com/watch?v=H5xGwsJ76dw) of the thoughts behind the project.
 
-The code can be found at: https://gitlab.com/aaronblythe/sentipy/
+The code for [Sentipy](https://gitlab.com/aaronblythe/sentipy/) can be found at my [Gitlab page](https://gitlab.com/aaronblythe/).
 
 <br/>
 <br/>
