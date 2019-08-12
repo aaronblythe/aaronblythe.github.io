@@ -25,12 +25,12 @@ Check out my group's full [research paper](/images/portfolio/Oculum_afficit.pdf)
 
 [<img align="left" src="/images/portfolio/hw8_tensor_board.PNG" hspace="20">](https://colab.research.google.com/drive/12iauR6WPjcEejtAY-qS_s3DTVVUCN1LX)
 
-This is by far one of my favorite classes I have ever taken. We covered [many topics](https://courses.engr.illinois.edu/cs498aml/sp2019/) from Principal Component Analysis to Classification with Artificial Neural Networks with PyTorch and many other topics.
+This is by far one of my favorite classes I have ever taken. We covered topics from Principal Component Analysis to Classification with Artificial Neural Networks with PyTorch and [many other topics](https://courses.engr.illinois.edu/cs498aml/sp2019/).
 
 View my code and discussion here:
 * [Principal Component Analysis](https://colab.research.google.com/drive/13NjeraDoDESv_lXErcTi71n1XdQ2jmVi)
 * [Classification with Artificial Neural Networks with PyTorch](https://colab.research.google.com/drive/12iauR6WPjcEejtAY-qS_s3DTVVUCN1LX)
-* [Full python code](https://gitlab.com/aaronblythe/applied_machine_learning) available upon request (we have been asked to not share the code publicly in git).
+* [Full python code](https://gitlab.com/aaronblythe/applied_machine_learning)  of all my assignments for this class available upon request (we have been asked to not share the code publicly in git).
 
 <br/>
 <br/>
@@ -62,6 +62,7 @@ View my work here:
 
 The dashboard I created shows the last 50 years of CO2 emissions per country across the world. The data is from the [World Development Indicators Data](https://datacatalog.worldbank.org/dataset/world-development-indicators).
 
+View my work here:
 * [Tableau dashboard](https://public.tableau.com/profile/aaron.blythe#!/vizhome/CO2EmissionsperCountryWDIData/Dashboard)
 
 <br/>
@@ -105,7 +106,7 @@ In this project we mined Twitter for tweets about companies in the airline indus
 
 * [Video walk through of the project](https://www.youtube.com/watch?v=H5xGwsJ76dw)
 * [Sentipy code](https://gitlab.com/aaronblythe/sentipy/)
-
+* [Deployment of Maps](https://aaronblythe.gitlab.io/sentipy/)
 
 <br/>
 <br/>
