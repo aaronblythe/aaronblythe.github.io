@@ -42,7 +42,7 @@ View my code and discussion here:
 
 In this class we covered a [number of topics](http://daviddalpiaz.github.io/appliedstats/index.html) including linear regression and logistic regression.
 
-In our group project we used the [1990 California Housing Data Set](/images/portfolio/Data_Analysis.html) to work create a predictive model.
+In our group project we used the [1990 California Housing Data Set](http://rpubs.com/ablythe/520912) to work create a predictive model.
 
 View my work here:
 * [linear regression](/images/portfolio/w09-hw-ablythe.html)
