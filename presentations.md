@@ -8,7 +8,7 @@ permalink: /presentations/
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2019/08/27 | DevOpsDays Chicago | [![devopsdayschi-icon]({{ site.url }}/images/icons/devopsdayschi.jpg)][devopsdayschi2019] | [Slides][devopsdayskc2016slides] | future |
+| 2019/08/27 | DevOpsDays Chicago | [![devopsdayschi-icon]({{ site.url }}/images/icons/devopsdayschi.jpg)][devopsdayschi2019] | [Slides][devopsdayschi2018slides] | future |
 | 2019/05/02 | DevOpsDays Des Moines | [![devopsdaysdsm-icon]({{ site.url }}/images/icons/devopsdaysdsm.jpg)][devopsdaysdsm2019] | [Slides][devopsdayskc2016slides] | [video][devopsdaysdsm2019vid] |
 | 2019/04/25 | Kansas City InfoSec Community Showcase | [![seckc-icon]({{ site.url }}/images/icons/seckc.jpg)][kcinfosecshowcase2019] | coming | coming |
 | 2019/03/12 | Sprint DevOps Community of Practice (Company Lunch-n-learn) | [![sprint-icon]({{ site.url }}/images/icons/sprint.jpg)][sprint] | N/A | N/A |
@@ -175,6 +175,7 @@ permalink: /presentations/
 [cernerdevcon2014promo]: https://youtu.be/YCdbh0D1IW8?t=118
 [cernerdevcon2013]: https://www.youtube.com/watch?v=p513NVac6C8
 
+[devopsdayschi2018slides]: /images/presentations/third_way_chicago.pdf
 [rxsavings2018slides]: https://speakerdeck.com/aaronblythe/chatops-for-incidents-72811b66-81c5-4ec2-ac05-4d2e743113a8
 [aretheylisteningslides]: https://speakerdeck.com/aaronblythe/alexa-and-google-are-listening-how-much-are-they-transmitting
 [trustjustcultureslideskcdc]: https://speakerdeck.com/aaronblythe/trust-just-culture-and-blameless-post-mortem-kcdc
