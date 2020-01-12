@@ -9,7 +9,7 @@ This was my first ever 500 level course and probably the most challenging course
 
 This course covered two of the best texts for Machine Learning:
 
-* [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. Commonly referred to as ISLR
+* [An Introduction to Statistical Learning with Applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. Commonly referred to as ISLR
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman. Commonly referred to as ESL
 
 The [course website](https://teazrq.github.io/stat542/homework.html) was well laid out and the class notes are worth referring back to.

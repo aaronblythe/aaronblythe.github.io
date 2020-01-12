@@ -40,7 +40,7 @@ Which landed me here: https://github.com/Homebrew/homebrew-core/issues/5799 So l
     brew upgrade
 
 This brought me from git 2.6.1 to git 2.11.0
-Then I ran into this a bunch: http://stackoverflow.com/questions/33636467/unable-to-click-always-allow-on-git-credential-osxkeychain-popup
+Then I ran into this a bunch: https://stackoverflow.com/questions/33636467/unable-to-click-always-allow-on-git-credential-osxkeychain-popup
 Eventually removed git credentials from keychain and need to come back to this to clean up so I do not have to put in credentials all the time.
 
 Then I installed ruby 2.2.x and 2.3.x locally 
@@ -49,7 +49,7 @@ Then I installed ruby 2.2.x and 2.3.x locally
     # which gave me ruby-2.2.4
     rvm install 2.3.3
 
-Here I fidgeted with both 2.2.4 (Rails needs a minimum of 2.2.2 currently based on the [documentation](http://guides.rubyonrails.org/getting_started.html))
+Here I fidgeted with both 2.2.4 (Rails needs a minimum of 2.2.2 currently based on the [documentation](https://guides.rubyonrails.org/getting_started.html))
 
 I eventually landed on that I will be able to run ruby 2.3.x locally even though I am constained back to ruby 2.2.x in the docker container.
 

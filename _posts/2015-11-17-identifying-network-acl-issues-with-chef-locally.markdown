@@ -7,4 +7,4 @@ categories: chef
 
 On the Cerner Engineering blog:
 
-http://engineering.cerner.com/blog/identifying-network-acl-issues-with-chef-locally/
+https://engineering.cerner.com/blog/identifying-network-acl-issues-with-chef-locally/

@@ -108,25 +108,25 @@ permalink: /presentations/
 [bsideskc2018]: https://www.bsideskc.org/
 [bsidesiowa2018]: https://bsidesiowa.com/
 [newrelic]: https://newrelic.com/community/events
-[leanagilekc2017]: http://2017.leanagilekc.com/
+[leanagilekc2017]: https://2017.leanagilekc.com/
 [devopsdayskc2017]: https://www.devopsdays.org/events/2017-kansascity/welcome/
 [secdsm]: https://secdsm.org/
-[kcdc2017]: http://kcdc.info
-[bsidesspfd2017]: http://www.securitybsides.com/w/page/116970567/BSidesSpfd
-[tulsatechfest2017]: http://techfests.com/Tulsa/2017/default.aspx
+[kcdc2017]: https://kcdc.info
+[bsidesspfd2017]: https://www.securitybsides.com/w/page/121779924/BSidesSpfd%202017
+[tulsatechfest2017]: https://techfests.com/Tulsa/2017/default.aspx
 [bsideskc2017]: https://2017.bsideskc.org/
-[silverlinings2017]: http://stlsilverlinings.org/
-[leanagilekc2016]: http://2016.leanagilekc.com/
-[leanagilekc2015]: http://2015.leanagilekc.com/
-[kcdevopsmeetup]: http://www.meetup.com/DevOps-Kansas-City/
+[silverlinings2017]: https://stlsilverlinings.org/
+[leanagilekc2016]: https://2016.leanagilekc.com/
+[leanagilekc2015]: https://2015.leanagilekc.com/
+[kcdevopsmeetup]: https://www.meetup.com/DevOps-Kansas-City/
 [devopsdayskc2016]: https://www.devopsdays.org/events/2016-kansascity/welcome/
-[midwestio]: http://www.midwest.io/
+[midwestio]: https://www.midwest.io/
 [chefconf]: https://chefconf.chef.io/
-[uofiwebcon]: http://webcon.illinois.edu
-[splunkconf]: http://conf.splunk.com/
+[uofiwebcon]: https://webcon.illinois.edu
+[splunkconf]: https://conf.splunk.com/
 [arresteddevops]: https://www.arresteddevops.com/
 [cernerdevcon]: https://twitter.com/cernereng
-[splvkc]: http://live.splunk.com/kansascity
+[splvkc]: https://live.splunk.com/kansascity
 
 
 [isg2019photo]: https://twitter.com/ISG_News/status/1188913112495415297
@@ -176,7 +176,7 @@ permalink: /presentations/
 [chefconf2015vid]: https://www.youtube.com/watch?v=EHIzjrg0fFU
 [arresteddevops19vid]: https://www.arresteddevops.com/dev-to-ops/
 [splunkconf2014vid]: https://conf.splunk.com/session/2014/conf2014_CharlieHuggard_Cerner_ITOperations.mp4
-[splunkconf2015vid]: http://conf.splunk.com/session/2015/recordings/2015-splunk-ct5.mp4
+[splunkconf2015vid]: https://conf.splunk.com/session/2015/recordings/2015-splunk-ct5.mp4
 [cernerdevcon2014]: https://www.youtube.com/watch?v=4f5QrgDmYz8&t=11s
 [cernerdevcon2014promo]: https://youtu.be/YCdbh0D1IW8?t=118
 [cernerdevcon2013]: https://www.youtube.com/watch?v=p513NVac6C8
@@ -206,5 +206,5 @@ permalink: /presentations/
 [chef12062016]: https://blog.chef.io/2016/12/06/tis-the-season-for-putting-customers-first/
 [chef11012016]: https://blog.chef.io/2016/11/01/chef-at-devopsdays-kansas-city/
 [chef05082013]: https://blog.chef.io/2013/05/08/chef-10-26-0-released/
-[chrissteinblog]: http://chrisstein.io/devopsdays/2016/11/02/devopsdayskc2016-the-beginning.html
-[koolkatz]: http://www.koolkatzsurf.com/testimonials.htm
+[chrissteinblog]: https://chrisstein.io/devopsdays/2016/11/02/devopsdayskc2016-the-beginning.html
+[koolkatz]: https://www.koolkatzsurf.com/testimonials.htm
