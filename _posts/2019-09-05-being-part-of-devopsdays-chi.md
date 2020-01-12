@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Being Part of DevOpsDays Chicago 2019"
+date:   2019-09-05 01:00:00 -0600
+categories: devopsdays
+---
+
+This year for the first time, it worked out to where I got to participate in DevOpsDays Chicago on August 27th and August 28th. I was very excited for many reasons. I grew up in Illinois, went to college in Illinois, currently I am studying at University of Illinois for my masters. I love Chicago. One of the organizers, Matt Stratton, is the person that encouraged me to start a DevOpsDays conference in Kansas City. I have a huge respect and admiration for the rest of the organizers of this event, so I wanted to meet them and see how they run their show.
+
+One thing that stood out to me at the beginning was that everyone got a badge with "participant" and they made sure to point that out. There are not separate badges for speakers or organizers or sponsors. Everyone participates. DevOpsDays is a conference based on interaction and participation. You have to immerse yourself into it and be a part of it all.
+
+There was a really great [program](https://devopsdays.org/events/2019-chicago/program) over the two days. Day one kicked off with a very thought-provoking talk on [ethics in computing](https://www.youtube.com/embed/kv2c8iAmfP0) by [Jeff Smith](https://twitter.com/DarkAndNerdy). The awesome continued throughout the morning with a lot of people I really look up to, including [Heidi Waterhouse](https://twitter.com/wiredferret), [Kevin Harriss](https://twitter.com/specialkevin), and [Lakshmi Baskaran](https://www.linkedin.com/in/lakshmibaskaran/). After lunch the ignites were rad and [Jess Frazelle](https://twitter.com/jessfraz) did a cool talk on why Open Source Firmware is important.
+
+I got to participate in a Open Space led by [J Paul Reed](https://twitter.com/jpaulreed) on [Talk Pay](https://medium.com/@jpaulreed/talking-pay-in-the-public-square-70e588f54c8). The open space had somewhere over 50 people. It was really interesting to see the distribution of pay for our industry. We agreed not to talk about specifics after the fact and no one was to take pictures of the distribution. However there are so many great stories that come out of past ones of these, of people getting raises from what they learned and talking about pay.
+
+The after hours event was a lot of fun. I got to play shuffleboard, Fruit Ninja VR with [James Wickett](https://twitter.com/wickett), and watch some pretty rad karaoke from [Trevor Hess](https://twitter.com/trevorghess) and [Kevin Reedy](https://twitter.com/kevinreedy). The mini Chicago dogs were awesome. I walked back to the hotel a little over a mile because I was in the hunt to win my Fitbit challenge for the week. It was cool to walk through little Italy in the UIC area. I love the way the houses are laid out on the blocks in that area of Chicago.
+
+The second day kicked off with [Pete Cheslock](https://twitter.com/petecheslock) with some eye-opening thoughts on [hiring and retaining talent](https://devopsdays.org/events/2019-chicago/program/pete-cheslock). I took a lot away from this talk that will likely come in hand as I navigate my own career and help mentor others. I loved hearing from [Holly Allen](https://twitter.com/hollyjallen) how things are run at Slack. I have always worked at companies that are moving from on-prem to the cloud. It was interesting to hear that there are still fun challenges for companies that started in the cloud. I was also impressed with [Baron Schwartz](https://twitter.com/xaprb) talking about bringing DevOps to the Database and [Karissa Peth](https://twitter.com/karissapeth) talking about documenting like a scientist as both of these are things that are near and dear to my previous work and will only become more part of future work.
+
+Over lunch I ran into someone that was a customer when I worked at New Relic and got to catch up on some of the amazing tranformation that they were going through at MorningStar. We also sat with [Lakshmi Baskaran](https://www.linkedin.com/in/lakshmibaskaran/) who delivered a great talk the day before. We talked through some of the things we were all dealing with and provided each other insight and suggestions on things to try.
+
+In the afternoon. I got to deliver an ignite on [Failure and the Third Way](https://devopsdays.org/events/2019-chicago/program/aaron-blythe). In the same ignite block were both [Joshua Zimmerman](https://twitter.com/TheJewberwocky) and [Heidi Waterhouse](https://twitter.com/wiredferret), two people that I really look up to as both being rad technical people and as being just awesome people.  While we were waiting to speak, I noticed that Joshua was playing Pokemon and we become trainer friends in the game. This was a great thing to do to take my mind off of my nerves.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ahcUma80Rn8" frameborder="0" allowfullscreen></iframe>
+
+It was a lot of fun!! Here is what some people said:
+
+{% twitternocache https://twitter.com/DarkAndNerdy/status/1166777384638603269 %}
+
+{% twitternocache https://twitter.com/DivineOps/status/1166777194280079360 %}
+
+After my talk [J Paul Reed](https://twitter.com/jpaulreed) volunteered me and him to talk about Just Culture. This was an interesting discussion and for me at least it showed that some people worked in places where there were very unjust things happening. You hate to see this, but as usual I encouraged people to try their hardest to make things incrementally better, and if they truly have exhausted all their options then they should find a place where they believe there would be a more generative culture.
+
+After the conference many of the organizers and speakers headed over to Michael Jordan's Restaurant for Pizza and Beer. Side note: Michael Jordan was a childhood hero of mine, so going to his restaurant alone was an experience that I have wanted for a long time. I got a chance to walk around with [Trevor Hess](https://twitter.com/trevorghess) and win 3 Legendary Pokemon Raids, catching 3 Azelfs for myself and [Kevin Reedy](https://twitter.com/kevinreedy) in the process. I learned a new trick of how to just mash the special move button. Trevor had two phones of his own so we took down these raids between the four our thumbs. When we got back the restaurant there was deep dish pizza. I. Love. Deep. Dish. Pizza. I had 3 and a half pieces and I wanted more, but just couldn't.
+
+I was about to get a Lyft to "the airport", when [J Paul Reed](https://twitter.com/jpaulreed) said, no let's keep the fun going, jump in with Pete and I. I figured, why not and didn't ask any questions. At this point, it is worth saying that there are two airports in Chicago... So I get in and Pete jumps into some awesome story and we are all into it and just keep the story going jumping off of what was said last.  Ususally I take the train to head to Midway something didn't seem right about the way were going, but whatever. Then Pete asks Paul what airline, which makes me think about the fact that Southwest pretty much only flies in/out of Midway.  I then ask if we happen to be going to O'Hare...
+
+{% twitternocache https://twitter.com/ablythe/status/1166883869972475905 %}
+
+The ensuing thread ends in me making my flight (obviously I am fine enough to be here writing this) and a lot of jokes about root cause and multiple contributing factors.
+
+In addition to all of the amazing technical things that I learned in Chicago at DevOpsDays, I learned that you should definitely be part of it all. Head back to places you have been, to find new perspectives. Go up and have a conversation with those people that you look up to, but don't know yet. Have lunch with people you know to catch up and likely learn something. Share a ride with new friends. If nothing else you will get a story out of it to look back fondly on.
+
