@@ -27,9 +27,13 @@ In the afternoon. I got to deliver an ignite on [Failure and the Third Way](http
 
 It was a lot of fun!! Here is what some people said:
 
-{% twitter https://twitter.com/DarkAndNerdy/status/1166777384638603269 %}
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s hard to choose, but so far <a href="https://twitter.com/ablythe?ref_src=twsrc%5Etfw">@ablythe</a> has the best <a href="https://twitter.com/devopsdaysChi?ref_src=twsrc%5Etfw">@devopsdaysChi</a> moment. Awesome ignite!</p>&mdash; Jeff Smith (@DarkAndNerdy) <a href="https://twitter.com/DarkAndNerdy/status/1166777384638603269?ref_src=twsrc%5Etfw">August 28, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
-{% twitter https://twitter.com/DivineOps/status/1166777194280079360 %}
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">In-talk postmortem with <a href="https://twitter.com/ablythe?ref_src=twsrc%5Etfw">@ablythe</a> <br /><br />What is your instinctive reaction to <a href="https://twitter.com/hashtag/failure?src=hash&amp;ref_src=twsrc%5Etfw">#failure</a>?<br /><br />You can either have a <a href="https://twitter.com/hashtag/Retribution?src=hash&amp;ref_src=twsrc%5Etfw">#Retribution</a> culture or a <a href="https://twitter.com/hashtag/restorative?src=hash&amp;ref_src=twsrc%5Etfw">#restorative</a> culture, not both!<a href="https://twitter.com/devopsdaysChi?ref_src=twsrc%5Etfw">@devopsdaysChi</a> <a href="https://twitter.com/hashtag/devopsdays?src=hash&amp;ref_src=twsrc%5Etfw">#devopsdays</a> <a href="https://t.co/49o9RFBF7C">pic.twitter.com/49o9RFBF7C</a></p>&mdash; Sasha Rosenbaum 💻💻💻 (@DivineOps) <a href="https://twitter.com/DivineOps/status/1166777194280079360?ref_src=twsrc%5Etfw">August 28, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 After my talk [J Paul Reed](https://twitter.com/jpaulreed) volunteered me and him to talk about Just Culture. This was an interesting discussion and for me at least it showed that some people worked in places where there were very unjust things happening. You hate to see this, but as usual I encouraged people to try their hardest to make things incrementally better, and if they truly have exhausted all their options then they should find a place where they believe there would be a more generative culture.
 
@@ -37,7 +41,9 @@ After the conference many of the organizers and speakers headed over to Michael 
 
 I was about to get a Lyft to "the airport", when [J Paul Reed](https://twitter.com/jpaulreed) said, no let's keep the fun going, jump in with Pete and I. I figured, why not and didn't ask any questions. At this point, it is worth saying that there are two airports in Chicago... So I get in and Pete jumps into some awesome story and we are all into it and just keep the story going jumping off of what was said last.  Ususally I take the train to head to Midway something didn't seem right about the way were going, but whatever. Then Pete asks Paul what airline, which makes me think about the fact that Southwest pretty much only flies in/out of Midway.  I then ask if we happen to be going to O'Hare...
 
-{% twitter https://twitter.com/ablythe/status/1166883869972475905 %}
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Made some great new friends at <a href="https://twitter.com/hashtag/devopsdaysChi?src=hash&amp;ref_src=twsrc%5Etfw">#devopsdaysChi</a> in <a href="https://twitter.com/petecheslock?ref_src=twsrc%5Etfw">@petecheslock</a> and <a href="https://twitter.com/jpaulreed?ref_src=twsrc%5Etfw">@jpaulreed</a> so much so that they offered to take me to the wrong airport then left off at this marathon <a href="https://t.co/rLbVRxrnLw">pic.twitter.com/rLbVRxrnLw</a></p>&mdash; ablythe (@ablythe) <a href="https://twitter.com/ablythe/status/1166883869972475905?ref_src=twsrc%5Etfw">August 29, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 The ensuing thread ends in me making my flight (obviously I am fine enough to be here writing this) and a lot of jokes about root cause and multiple contributing factors.
 

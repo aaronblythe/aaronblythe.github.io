@@ -13,11 +13,15 @@ My favorite talk of the first day came from [Emily Nakashima](https://twitter.co
 
 I got the opportunity to present an ignite after lunch the first day.
 
-{% twitter https://twitter.com/ablythe/status/1124020415729418240 %}
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you so much for including me as part of your show! What a great community! <a href="https://twitter.com/hashtag/DevOpsDaysDSM?src=hash&amp;ref_src=twsrc%5Etfw">#DevOpsDaysDSM</a> <a href="https://twitter.com/DevOpsDaysDSM?ref_src=twsrc%5Etfw">@DevOpsDaysDSM</a> <a href="https://t.co/AuHpszCNuQ">pic.twitter.com/AuHpszCNuQ</a></p>&mdash; ablythe (@ablythe) <a href="https://twitter.com/ablythe/status/1124020415729418240?ref_src=twsrc%5Etfw">May 2, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zjMQslSpDBY" frameborder="0" allowfullscreen></iframe>
 
-{% twitter https://twitter.com/jodimj/status/1124018878147911680 %}
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">A reminder to avoid hindsight bias in your retrospectives. Enjoyed this ignite talk by <a href="https://twitter.com/ablythe?ref_src=twsrc%5Etfw">@ablythe</a> <a href="https://twitter.com/hashtag/DevOpsDaysDSM?src=hash&amp;ref_src=twsrc%5Etfw">#DevOpsDaysDSM</a></p>&mdash; Jodi Jones (@jodimj) <a href="https://twitter.com/jodimj/status/1124018878147911680?ref_src=twsrc%5Etfw">May 2, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 It was a lot of fun!! However I think it needs something more before I present it in Chicago later in the year.
 
@@ -27,10 +31,14 @@ On day two things kicked off with [Ryan Bergman](https://twitter.com/ryber) with
 
 I loved the hallway track at this conference and talked to some really impressive people and companies.
 
-{% twitter https://twitter.com/DevOpsDaysDSM/status/1123970669451067396 %}
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">The people at <a href="https://twitter.com/hashtag/DevOpsDaysDSM?src=hash&amp;ref_src=twsrc%5Etfw">#DevOpsDaysDSM</a> <a href="https://t.co/B21HBddWTA">pic.twitter.com/B21HBddWTA</a></p>&mdash; DevOpsDaysDesMoines (@DevOpsDaysDSM) <a href="https://twitter.com/DevOpsDaysDSM/status/1123970669451067396?ref_src=twsrc%5Etfw">May 2, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 I am also always a fan of on-site printing.
 
-{% twitter https://twitter.com/ablythe/status/1124061225485316108 %}
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Love the shirt process from at <a href="https://twitter.com/hashtag/DevOpsDaysDSM?src=hash&amp;ref_src=twsrc%5Etfw">#DevOpsDaysDSM</a> from <a href="https://t.co/r2CDa85OUg">https://t.co/r2CDa85OUg</a> great way to customize what you want and only make what you need. <a href="https://twitter.com/DevOpsDaysDSM?ref_src=twsrc%5Etfw">@DevOpsDaysDSM</a> <a href="https://t.co/1avQdoYhfX">pic.twitter.com/1avQdoYhfX</a></p>&mdash; ablythe (@ablythe) <a href="https://twitter.com/ablythe/status/1124061225485316108?ref_src=twsrc%5Etfw">May 2, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 I loved this 3 hour trip north and will likely try to make it back for future events.
