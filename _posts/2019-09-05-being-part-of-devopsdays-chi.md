@@ -5,7 +5,9 @@ date:   2019-09-05 01:00:00 -0600
 categories: devopsdays
 ---
 
-This year for the first time, it worked out to where I got to participate in DevOpsDays Chicago on August 27th and August 28th. I was very excited for many reasons. I grew up in Illinois, went to college in Illinois, currently I am studying at University of Illinois for my masters. I love Chicago. One of the organizers, Matt Stratton, is the person that encouraged me to start a DevOpsDays conference in Kansas City. I have a huge respect and admiration for the rest of the organizers of this event, so I wanted to meet them and see how they run their show.
+[![devopsdayschi-banner]({{ site.url }}/images/devopsdayschi_banner.png){:class="img-responsive"}](https://devopsdayschi.org/)
+
+This year for the first time, it worked out to where I got to participate in [DevOpsDays Chicago](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaVPM8O67RtKZsfo2WNySPo) on August 27th and August 28th, 2019. I was very excited for many reasons. I grew up in Illinois, went to college in Illinois, currently I am studying at University of Illinois for my masters. I love Chicago. One of the organizers, Matt Stratton, is the person that encouraged me to start a DevOpsDays conference in Kansas City. I have a huge respect and admiration for the rest of the organizers of this event, so I wanted to meet them and see how they run their show.
 
 One thing that stood out to me at the beginning was that everyone got a badge with "participant" and they made sure to point that out. There are not separate badges for speakers or organizers or sponsors. Everyone participates. DevOpsDays is a conference based on interaction and participation. You have to immerse yourself into it and be a part of it all.
 

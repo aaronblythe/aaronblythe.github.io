@@ -5,6 +5,8 @@ date:   2019-08-21 01:00:00 -0600
 categories: education
 ---
 
+![illinois-banner]({{ site.url }}/images/uiuc_banner.png){:class="img-responsive"}
+
 I just completed Stat 420: Statistical Modeling in R. This course was extremely challenging over the summer (while also taking data visualization). With 10 homeworks and 10 quizzed and 2 exams in 12 weeks, there was always something due.  In this class we covered a [number of topics](https://daviddalpiaz.github.io/appliedstats/index.html) including linear regression and logistic regression.  All of this course was done in the R programming language.
 
 
@@ -23,3 +25,18 @@ View my work here:
 <br/>
 <br/>
 <br/>
+
+Homeworks for this class consisted of:
+
+1. Data, Statistics, and R
+1. Simple Linear Regression
+1. Inference for Simple Linear Regression
+1. Multiple Linear Regression
+1. Categorical Predictors and Interactions
+1. Diagnostics and Transformations
+1. Collinearity and Model Selection
+1. Regression for a Binary Response
+
+<iframe width="854" height="480" src="{{ site.url }}/images/certificates/stat420_statistical_modeling.pdf" frameborder="0" allowfullscreen></iframe>
+
+[Certificate](https://www.coursera.org/account/accomplishments/certificate/7R459NFUBLNC)

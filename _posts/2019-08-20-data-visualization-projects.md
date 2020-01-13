@@ -5,6 +5,8 @@ date:   2019-08-20 01:00:00 -0600
 categories: education
 ---
 
+![illinois-banner]({{ site.url }}/images/uiuc_banner.png){:class="img-responsive"}
+
 My data visualization class over the summer semester covered both Tableau and D3 from a technical standpoint, however it also really delved into the psychology of data visualization.  I learned how the "gg" in "ggplot" (a common library used in both R and python) came from "Grammar of Graphics". The first edition of this book appeared in 2000. This book has many ideas that are becoming more and more realized everyday through things like Excel, Tableau and other visualization software.  I will treasure and look back fondly on the things that I learned in this course.
 
 ### [Tableau Visualization of CO2 by Country](https://public.tableau.com/profile/aaron.blythe#!/vizhome/CO2EmissionsperCountryWDIData/Dashboard)
@@ -35,6 +37,7 @@ View my work here:
 <br/>
 <br/>
 
+<iframe width="854" height="480" src="{{ site.url }}/images/certificates/cs498_data_viz.pdf" frameborder="0" allowfullscreen></iframe>
 
 [Course Certificate](https://www.coursera.org/account/accomplishments/certificate/8J774GWGPEB9)
 
