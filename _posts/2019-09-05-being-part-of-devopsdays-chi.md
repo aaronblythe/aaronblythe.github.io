@@ -27,9 +27,9 @@ In the afternoon. I got to deliver an ignite on [Failure and the Third Way](http
 
 It was a lot of fun!! Here is what some people said:
 
-{% twitternocache https://twitter.com/DarkAndNerdy/status/1166777384638603269 %}
+{% twitter https://twitter.com/DarkAndNerdy/status/1166777384638603269 %}
 
-{% twitternocache https://twitter.com/DivineOps/status/1166777194280079360 %}
+{% twitter https://twitter.com/DivineOps/status/1166777194280079360 %}
 
 After my talk [J Paul Reed](https://twitter.com/jpaulreed) volunteered me and him to talk about Just Culture. This was an interesting discussion and for me at least it showed that some people worked in places where there were very unjust things happening. You hate to see this, but as usual I encouraged people to try their hardest to make things incrementally better, and if they truly have exhausted all their options then they should find a place where they believe there would be a more generative culture.
 
@@ -37,7 +37,7 @@ After the conference many of the organizers and speakers headed over to Michael 
 
 I was about to get a Lyft to "the airport", when [J Paul Reed](https://twitter.com/jpaulreed) said, no let's keep the fun going, jump in with Pete and I. I figured, why not and didn't ask any questions. At this point, it is worth saying that there are two airports in Chicago... So I get in and Pete jumps into some awesome story and we are all into it and just keep the story going jumping off of what was said last.  Ususally I take the train to head to Midway something didn't seem right about the way were going, but whatever. Then Pete asks Paul what airline, which makes me think about the fact that Southwest pretty much only flies in/out of Midway.  I then ask if we happen to be going to O'Hare...
 
-{% twitternocache https://twitter.com/ablythe/status/1166883869972475905 %}
+{% twitter https://twitter.com/ablythe/status/1166883869972475905 %}
 
 The ensuing thread ends in me making my flight (obviously I am fine enough to be here writing this) and a lot of jokes about root cause and multiple contributing factors.
 

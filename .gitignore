@@ -5,3 +5,4 @@ _site
 .asset-cache
 .DS_Store
 .jekyll-cache/*
+.tweet-cache/*

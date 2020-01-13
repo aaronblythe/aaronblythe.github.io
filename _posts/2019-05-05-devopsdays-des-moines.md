@@ -13,11 +13,11 @@ My favorite talk of the first day came from [Emily Nakashima](https://twitter.co
 
 I got the opportunity to present an ignite after lunch the first day.
 
-{% twitternocache https://twitter.com/ablythe/status/1124020415729418240 %}
+{% twitter https://twitter.com/ablythe/status/1124020415729418240 %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zjMQslSpDBY" frameborder="0" allowfullscreen></iframe>
 
-{% twitternocache https://twitter.com/jodimj/status/1124018878147911680 %}
+{% twitter https://twitter.com/jodimj/status/1124018878147911680 %}
 
 It was a lot of fun!! However I think it needs something more before I present it in Chicago later in the year.
 
@@ -27,10 +27,10 @@ On day two things kicked off with [Ryan Bergman](https://twitter.com/ryber) with
 
 I loved the hallway track at this conference and talked to some really impressive people and companies.
 
-{% twitternocache https://twitter.com/DevOpsDaysDSM/status/1123970669451067396 %}
+{% twitter https://twitter.com/DevOpsDaysDSM/status/1123970669451067396 %}
 
 I am also always a fan of on-site printing.
 
-{% twitternocache https://twitter.com/ablythe/status/1124061225485316108 %}
+{% twitter https://twitter.com/ablythe/status/1124061225485316108 %}
 
 I loved this 3 hour trip north and will likely try to make it back for future events.
