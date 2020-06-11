@@ -2,7 +2,7 @@
 layout: post
 title:  "Adding a Screen to Car"
 date:   2020-06-11 01:00:00 -0600
-categories: devopsdays
+categories: technology
 ---
 
 # Found Time, Brain Stuffing, and Fresh Car Situation
