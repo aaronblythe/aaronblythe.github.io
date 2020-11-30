@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tau Beta Pi"
-date:   2020-09-18 01:00:00 -0600
+date:   2020-09-28 01:00:00 -0600
 categories: school
 ---
 

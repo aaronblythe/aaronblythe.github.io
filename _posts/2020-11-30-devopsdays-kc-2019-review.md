@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DevOpsDays Kansas City 2019 in review"
-date:   2018-11-01 23:00:00 -0600
+date:   2020-11-30 23:00:00 -0600
 categories: devopsdays
 ---
 
