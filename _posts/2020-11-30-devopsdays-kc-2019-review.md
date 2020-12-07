@@ -28,3 +28,5 @@ Our graphics were created and provided by [Will Mackey](https://www.linkedin.com
 We had a local podcaster [Du'an Lightfoot](https://www.youtube.com/channel/UCeXMAP0cZ-VZ0VHX9ZV2Abw) [#labeeveryday](https://twitter.com/search?q=%23LabEveryday) (with over 30k YouTube subscribers) attend and do podcasts on site.
 
 We couldn't have done any of this without all the amazing [sponsors](https://devopsdays.org/events/2019-kansas-city/welcome)!! There were over 30 sponsors contributing support to make this happen.
+
+DevOpsDay KC is also completely volunteer ran. Each of the [organizers](https://devopsdays.org/events/2019-kansas-city/contact) gave up their own time that they could have spent on countless other activities to put on a show for the sake of building a stronger, faster, better Kansas City Tech community.
