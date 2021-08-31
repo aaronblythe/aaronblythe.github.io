@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Advice on Obtaining Cloud Certifications"
-date:   2021-07-24 01:00:00 -0600
+date:   2021-09-01 01:00:00 -0600
 categories: certification
 ---
 
