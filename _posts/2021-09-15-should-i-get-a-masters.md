@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Should I Get a Master's Degree"
-date:   2020-09-18 01:00:00 -0600
+date:   2021-09-15 01:00:00 -0600
 categories: school
 ---
 
