@@ -54,11 +54,13 @@ Time is likely to be the biggest cost and stressor. For many, I believe more so 
 
 # Goal Job
 
-Perhaps this section should have come first. It is really important to have a target that you are aiming for. In addition to the research you did in the first section on the market rates for job titles, another site that is worth looking at is [levels.fyi](https://www.levels.fyi). This site has data gathered from many different companies across the globe and they have services that are intended to help you with your negotiation. I cannot attest to their paid services, I have not used them, however I have spent a fair amount of time researching the market on this site for free.
+Perhaps this section should have come first. It is really important to have a target that you are aiming for. In addition to the research you did in the first section on the market rates for job titles, another site that is worth looking at is [levels.fyi](https://www.levels.fyi). This site has data gathered from many different companies across the globe and they have services that are intended to help you with your negotiation. I cannot attest to their paid services, I have not used them, however I have spent a fair amount of time researching the market on this site for free. It is worth understanding the things that go into seniority (or levels) at a company. For some companies having Master's degrees can be the difference between entering the company at one level vs. another. As you can see from the site at many top companies this can be substantial.
 
 Understand that getting a Professional Graduate degree does not guarantee a job. Also the goal job that you are looking at may not require a Master's Degree of any sort. I personally look at my Graduate degree as a time when I really focused in on learning a specific thing to become an expert at it. I view Cloud Certifications the same way. Outwardly to other people these may show as success indicators. They also may not. It would be a sad state of affairs for you to spend an extra 5-20 hours per week to show someone else something they did not care about. This is why it is important for what you are studying to be important to you, first and foremost.
 
 It is also important to not get discouraged in this process. I first interviewed for the current company that I work for in 2015, 6 years prior to actually being hired. This process can take a fair amount of time.
+
+If you ever plan to be a CTO, CIO, CISO, or other type of chairperson, some boards will only look at and/or approve individuals with a Master's degree or higher, so that is also a consideration.
 
 # Return On Investment
 
