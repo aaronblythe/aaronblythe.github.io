@@ -3,7 +3,7 @@ Cloud Architect/Data Scientist
 
 EXPERIENCE
 
-Sr. Enterprise Business Intelligence & Data Architect  	(2018 – Present) NAIC
+Sr. Enterprise Business Intelligence & Data Architect  	(2018 – 2021) NAIC
 
 Worked with the Platform Engineering Team (PET) both Pipeline and Platform to build the basis for the migrations to the Cloud for NAIC. Helped by leading the team, defining requirements, designing and implementing solutions. Started an organization wide committee on helping foster a culture of growth and learning as we move to the cloud. Taught classes on how to use the pipeline. Fostered numerous collaborative decisions on direction for the team - how to do Agile development (issue tracking), utilization of consultant hours, interactions with other teams on Proof of Concept work.
 
