@@ -113,6 +113,7 @@ permalink: /presentations/
 [googlecloud]: https://cloud.google.com/
 [vmug]: https://my.vmug.com
 
+[devopsdayskc2019]: https://www.devopsdays.org/events/2019-kansascity/welcome/
 [devsecopsdaysaustin]: https://www.devsecopsdays.com/2019-devsecopsdays-austin
 [isg2019]: https://aesus19.isg-one.com/agenda/session/141767
 [devopsdayschi2019]: https://devopsdays.org/events/2019-chicago/welcome/
