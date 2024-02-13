@@ -9,11 +9,11 @@ permalink: /presentations/
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
 | 2023/12/1 | DevFext KC | [![devfest-icon]({{ site.url }}/images/icons/devfest.png)][devfestkc] | N/A | [video][devfestkc2023vid] |
-| 2023/11/10 | NextFive KC | [![nextfive-icon]({{ site.url }}/images/icons/devsecopsdays.png)][nextfive] | N/A | N/A |
+| 2023/11/10 | NextFive KC | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
 | 2023/11/7 | GMI+Google Cloud (Minneapolis) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2023/10/4 | VMUG KC Conference | [![vmug-icon]({{ site.url }}/images/icons/vmug.jpg)][vmug] | N/A | N/A |
 | 2023/8/14 | Google Cloud Omaha AI Tech Day (Kiewitt) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
-| 2023/8/8 | DevOpsDays Organizers Summit 2023 - Chicago | [![devopsdaysorgsummit2023.jpg-icon]({{ site.url }}/images/icons/devopsdaysorgsummit2023.jpg.png)][devsecopsdaysaustin] | N/A | [video][devopsdaysorganizersummit2023vid] |
+| 2023/8/8 | DevOpsDays Organizers Summit 2023 - Chicago | [![devopsdaysorgsummit2023-icon]({{ site.url }}/images/icons/devopsdaysorgsummit2023.jpg)][devopsdaysorgsummit2023] | N/A | [video][devopsdaysorganizersummit2023vid] |
 | 2023/7/19 | Google Cloud Minneapolis Exec AI Day (Pinstripes) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2023/5/30 | DevOpsKC Meetup | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup] | N/A | [video][kcdevopsmeetupmay2023talkvid] |
 | 2023/5/24 | Google Cloud St. Louis GenAI Day | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
@@ -112,6 +112,7 @@ permalink: /presentations/
 [nextfive]: https://nextfive.io
 [googlecloud]: https://cloud.google.com/
 [vmug]: https://my.vmug.com
+[devopsdaysorgsummit2023]: https://devopsdays.org/events/2023-organizer-summit/welcome/
 
 [devopsdayskc2019]: https://www.devopsdays.org/events/2019-kansascity/welcome/
 [devsecopsdaysaustin]: https://www.devsecopsdays.com/2019-devsecopsdays-austin
