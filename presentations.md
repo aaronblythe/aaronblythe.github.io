@@ -8,7 +8,19 @@ permalink: /presentations/
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2019/12/16 | DevSecOpsDays Austin | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | Coming |
+| 2023/12/1 | DevFext KC | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | [video][devfestkc2023vid] |
+| 2023/11/10 | NextFive KC | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
+| 2023/11/7 | GMI+Google Cloud (Minneapolis) | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
+| 2023/10/4 | VMUG KC Conference | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
+| 2023/8/14 | Google Cloud Omaha AI Tech Day (Kiewitt) | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
+| 2023/8/8 | DevOpsDays Organizers Summit 2023 - Chicago | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | [video][devopsdaysorganizersummit2023vid] |
+| 2023/7/19 | Google Cloud Minneapolis Exec AI Day (Pinstripes) | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
+| 2023/5/30 | DevOpsKC Meetup | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | [video][kcdevopsmeetupmay2023talkvid] |
+| 2023/5/24 | Google Cloud St. Louis GenAI Day | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
+| 2023/5/12 | Google Cloud KC AI/ML Day (Burns & McDonnell) | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
+| 2023/2/22 | Google Cloud St. Louis AI/ML Day | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
+| 2023/2/9 | Google Cloud Patient Experience Webinar with Quantiphi | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
+| 2019/12/16 | DevSecOpsDays Austin | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
 | 2019/10/28 | ISG Agile Summit Boston | [![isg-icon]({{ site.url }}/images/icons/isg.png)][isg2019] | N/A | [Photo][isg2019photo] |
 | 2019/08/27 | DevOpsDays Chicago | [![devopsdayschi-icon]({{ site.url }}/images/icons/devopsdayschi.jpg)][devopsdayschi2019] | [Slides][devopsdayschi2018slides] | [Video][devopsdayschi2019vid] |
 | 2019/05/02 | DevOpsDays Des Moines | [![devopsdaysdsm-icon]({{ site.url }}/images/icons/devopsdaysdsm.jpg)][devopsdaysdsm2019] | [Slides][devopsdayskc2016slides] | [video][devopsdaysdsm2019vid] |
@@ -51,6 +63,7 @@ permalink: /presentations/
 
 | Date       | Presentation               | Event                                                                                 | Video |
 | :--------: | :------------------------: |:-------------------------------------------------------------------------------------:|:------:|
+| 2018/10/18 | 2019 Intro Day 1       | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2019]| [Video][devopsdayskcday1introvid2019] |
 | 2018/10/18 | 2018 Intro Day 1       | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2018]| [Video][devopsdayskcday1introvid2018] |
 | 2017/09/22 | 2017 Summary Video     | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcsummaryvid2017]   |
 | 2017/09/22 | 2017 Intro Day 1       | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday1introvid2017] |
@@ -129,6 +142,11 @@ permalink: /presentations/
 [splvkc]: https://live.splunk.com/kansascity
 
 
+[devfestkc2023vid]: https://www.facebook.com/reel/648818464065644
+[devopsdaysorganizersummit2023vid]: https://youtu.be/8eAEy3O3gYw?t=12334
+[kcdevopsmeetupmay2023talkvid]: https://www.youtube.com/watch?v=AcgmqfdNxNE&t=1s
+
+[devopsdayskcday1introvid2019]: https://www.youtube.com/watch?v=YV7PdwhZ7Dk&t=36s
 [isg2019photo]: https://twitter.com/ISG_News/status/1188913112495415297
 [devopsdayschi2019vid]: https://www.youtube.com/watch?v=1vn2g_rm-d8&list=PLE7tQUdRKcyaVPM8O67RtKZsfo2WNySPo&index=14&t=0s
 [devopsdaysdsm2019vid]: https://www.youtube.com/watch?v=zjMQslSpDBY
