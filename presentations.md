@@ -8,8 +8,7 @@ permalink: /presentations/
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-
-| 2024/10/29 | Google Cloud Data to AI - St. Louis                        | ![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud]
+| 2024/10/29 | Google Cloud Data to AI - St. Louis                        | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2024/10/09 | GenAI in Action - Ingredion Customer Symposium - Kohler WI | logo | N/A | N/A |
 | 2024/10/08 | GenAI for Marketing - PR Newswire Webinar                  | logo | N/A | N/A |
 | 2024/09/18 | Future Technology Panel - USAA - San Antonio               | logo | N/A | N/A | 
@@ -19,7 +18,7 @@ permalink: /presentations/
 | 2024/05/03 | AI/ML for Manufacturing - APQC                             | logo | N/A | N/A |
 | 2024/04/24 | Harnessing the Power of Gemini - USAA Tech X - San Antonio | logo | N/A | N/A |
 | 2024/04/23 | Responsible AI - USAA TechX - San Antonio                  | logo | N/A | N/A |
-| 2024/03/12 | Google GenAI Live and Labs (St. Louis)                     | ![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | [video][devfestkc2023vid] |
+| 2024/03/12 | Google GenAI Live and Labs (St. Louis)                     | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2023/12/01 | DevFest KC | [![devfest-icon]({{ site.url }}/images/icons/devfest.png)][devfestkc] | N/A | [video][devfestkc2023vid] |
 | 2023/11/10 | NextFive KC | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
 | 2023/11/07 | General Mills+Google Cloud (Minneapolis) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
