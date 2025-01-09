@@ -9,15 +9,15 @@ permalink: /presentations/
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
 | 2024/10/29 | Google Cloud Data to AI - St. Louis                        | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
-| 2024/10/09 | GenAI in Action - Ingredion Customer Symposium - Kohler WI | logo | N/A | N/A |
-| 2024/10/08 | GenAI for Marketing - PR Newswire Webinar                  | logo | N/A | N/A |
-| 2024/09/18 | Future Technology Panel - USAA - San Antonio               | logo | N/A | N/A | 
-| 2024/08/21 | GenAI in Action - BigAI Omaha                              | logo | N/A | N/A |
-| 2024/07/29 | The Singularity is Nearer - NextFive                       | logo | N/A | N/A |
-| 2024/06/18 | Gemini for CyberSecurity - Huber CyberSecurity Symposium   | logo | N/A | N/A | 
-| 2024/05/03 | AI/ML for Manufacturing - APQC                             | logo | N/A | N/A |
-| 2024/04/24 | Harnessing the Power of Gemini - USAA Tech X - San Antonio | logo | N/A | N/A |
-| 2024/04/23 | Responsible AI - USAA TechX - San Antonio                  | logo | N/A | N/A |
+| 2024/10/09 | GenAI in Action - Ingredion Customer Symposium - Kohler WI | [![ingredion-icon]({{ site.url }}/images/icons/ingredion.jpg)][ingredion] | N/A | N/A |
+| 2024/10/08 | GenAI for Marketing - PR Newswire Webinar                  | [![prn-icon]({{ site.url }}/images/icons/prn.jpg)][prn] | N/A | N/A |
+| 2024/09/18 | Future Technology Panel - USAA - San Antonio               | [![usaa-icon]({{ site.url }}/images/icons/usaa.jpg)][usaa] | N/A | N/A |
+| 2024/08/21 | GenAI in Action - BigAI Omaha                              | [![bigai-icon]({{ site.url }}/images/icons/bigai.jpg)][bigai] | N/A | N/A |
+| 2024/07/29 | The Singularity is Nearer - NextFive                       | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A | 
+| 2024/06/18 | Gemini for CyberSecurity - Huber CyberSecurity Symposium   | [![huber-icon]({{ site.url }}/images/icons/huber.jpg)][huber] | N/A | N/A |
+| 2024/05/03 | AI/ML for Manufacturing - APQC                             | [![apqc-icon]({{ site.url }}/images/icons/apqc.jpg)][apqc] | N/A | N/A |
+| 2024/04/24 | Harnessing the Power of Gemini - USAA Tech X - San Antonio | [![usaa-techx-icon]({{ site.url }}/images/icons/usaa_techx.png)][usaa] | N/A | N/A |
+| 2024/04/23 | Responsible AI - USAA TechX - San Antonio                  | [![usaa-techx-icon]({{ site.url }}/images/icons/usaa_techx.png)][usaa] | N/A | N/A |
 | 2024/03/12 | Google GenAI Live and Labs (St. Louis)                     | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2023/12/01 | DevFest KC | [![devfest-icon]({{ site.url }}/images/icons/devfest.png)][devfestkc] | N/A | [video][devfestkc2023vid] |
 | 2023/11/10 | NextFive KC | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
@@ -126,6 +126,12 @@ permalink: /presentations/
 [devfestkc]: https://devfestkc.com/
 [nextfive]: https://nextfive.io
 [googlecloud]: https://cloud.google.com/
+[ingredion]: https://www.ingredion.com
+[prn]: https://www.prnewswire.com/
+[usaa]: https://www.usaa.com
+[bigai]: https://www.aimbigai.org/schedule
+[apqc]: https://www.apqc.org/events/annual-process-knowledge-management-conference
+[huber]: https://www.teamhuber.com/event/bestofcyber/
 [vmug]: https://my.vmug.com
 [devopsdaysorgsummit2023]: https://devopsdays.org/events/2023-organizer-summit/welcome/
 
