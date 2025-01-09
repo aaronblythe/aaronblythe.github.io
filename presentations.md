@@ -8,18 +8,30 @@ permalink: /presentations/
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Video |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2023/12/1 | DevFext KC | [![devfest-icon]({{ site.url }}/images/icons/devfest.png)][devfestkc] | N/A | [video][devfestkc2023vid] |
+
+| 2024/10/29 | Google Cloud Data to AI - St. Louis                        | ![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud]
+| 2024/10/09 | GenAI in Action - Ingredion Customer Symposium - Kohler WI | logo | N/A | N/A |
+| 2024/10/08 | GenAI for Marketing - PR Newswire Webinar                  | logo | N/A | N/A |
+| 2024/09/18 | Future Technology Panel - USAA - San Antonio               | logo | N/A | N/A | 
+| 2024/08/21 | GenAI in Action - BigAI Omaha                              | logo | N/A | N/A |
+| 2024/07/29 | The Singularity is Nearer - NextFive                       | logo | N/A | N/A |
+| 2024/06/18 | Gemini for CyberSecurity - Huber CyberSecurity Symposium   | logo | N/A | N/A | 
+| 2024/05/03 | AI/ML for Manufacturing - APQC                             | logo | N/A | N/A |
+| 2024/04/24 | Harnessing the Power of Gemini - USAA Tech X - San Antonio | logo | N/A | N/A |
+| 2024/04/23 | Responsible AI - USAA TechX - San Antonio                  | logo | N/A | N/A |
+| 2024/03/12 | Google GenAI Live and Labs (St. Louis)                     | ![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | [video][devfestkc2023vid] |
+| 2023/12/01 | DevFest KC | [![devfest-icon]({{ site.url }}/images/icons/devfest.png)][devfestkc] | N/A | [video][devfestkc2023vid] |
 | 2023/11/10 | NextFive KC | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
-| 2023/11/7 | GMI+Google Cloud (Minneapolis) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
-| 2023/10/4 | VMUG KC Conference | [![vmug-icon]({{ site.url }}/images/icons/vmug.jpg)][vmug] | N/A | N/A |
-| 2023/8/14 | Google Cloud Omaha AI Tech Day (Kiewitt) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
-| 2023/8/8 | DevOpsDays Organizers Summit 2023 - Chicago | [![devopsdaysorgsummit2023-icon]({{ site.url }}/images/icons/devopsdaysorgsummit2023.jpg)][devopsdaysorgsummit2023] | N/A | [video][devopsdaysorganizersummit2023vid] |
-| 2023/7/19 | Google Cloud Minneapolis Exec AI Day (Pinstripes) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
-| 2023/5/30 | DevOpsKC Meetup | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup] | N/A | [video][kcdevopsmeetupmay2023talkvid] |
-| 2023/5/24 | Google Cloud St. Louis GenAI Day | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
-| 2023/5/12 | Google Cloud KC AI/ML Day (Burns & McDonnell) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
-| 2023/2/22 | Google Cloud St. Louis AI/ML Day | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
-| 2023/2/9 | Google Cloud Patient Experience Webinar with Quantiphi | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
+| 2023/11/07 | General Mills+Google Cloud (Minneapolis) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
+| 2023/10/04 | VMUG KC Conference | [![vmug-icon]({{ site.url }}/images/icons/vmug.jpg)][vmug] | N/A | N/A |
+| 2023/08/14 | Google Cloud Omaha AI Tech Day (Kiewitt) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
+| 2023/08/08 | DevOpsDays Organizers Summit 2023 - Chicago | [![devopsdaysorgsummit2023-icon]({{ site.url }}/images/icons/devopsdaysorgsummit2023.jpg)][devopsdaysorgsummit2023] | N/A | [video][devopsdaysorganizersummit2023vid] |
+| 2023/07/19 | Google Cloud Minneapolis Exec AI Day (Pinstripes) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
+| 2023/05/30 | DevOpsKC Meetup | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup] | N/A | [video][kcdevopsmeetupmay2023talkvid] |
+| 2023/05/24 | Google Cloud St. Louis GenAI Day | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
+| 2023/05/12 | Google Cloud KC AI/ML Day (Burns & McDonnell) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
+| 2023/02/22 | Google Cloud St. Louis AI/ML Day | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
+| 2023/02/09 | Google Cloud Patient Experience Webinar with Quantiphi | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2019/12/16 | DevSecOpsDays Austin | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
 | 2019/10/28 | ISG Agile Summit Boston | [![isg-icon]({{ site.url }}/images/icons/isg.png)][isg2019] | N/A | [Photo][isg2019photo] |
 | 2019/08/27 | DevOpsDays Chicago | [![devopsdayschi-icon]({{ site.url }}/images/icons/devopsdayschi.jpg)][devopsdayschi2019] | [Slides][devopsdayschi2018slides] | [Video][devopsdayschi2019vid] |
@@ -63,28 +75,32 @@ permalink: /presentations/
 
 | Date       | Presentation               | Event                                                                                 | Video |
 | :--------: | :------------------------: |:-------------------------------------------------------------------------------------:|:------:|
-| 2018/10/18 | 2019 Intro Day 1       | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2019]| [Video][devopsdayskcday1introvid2019] |
-| 2018/10/18 | 2018 Intro Day 1       | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2018]| [Video][devopsdayskcday1introvid2018] |
-| 2017/09/22 | 2017 Summary Video     | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcsummaryvid2017]   |
-| 2017/09/22 | 2017 Intro Day 1       | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday1introvid2017] |
-| 2017/09/21 | 2017 Intro Day 2       | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday2introvid2017] |
-| 2017/06/27 | KC DevOps Meetup News     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017newsvid] | 
-| 2017/06/27 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017annvid] | 
-| 2017/05/16 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmay2017annvid] | 
-| 2017/04/04 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupapr2017annvid] | 
-| 2017/03/21 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmar2017annvid] | 
-| 2017/02/21 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupfeb2017annvid] | 
-| 2017/01/17 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjan2017annvid] | 
-| 2016/12/06 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupdec2016annvid] | 
-| 2016/11/01 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupnov2016annvid] | 
-| 2016/10/21 | 2016 Intro Day 2                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday2introvid] |
-| 2016/10/20 | 2016 Intro Day 1                | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday1introvid] |
-| 2016/09/28 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupsept2016annvid] |
-| 2016/08/31 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupaug2016annvid] |
-| 2016/04/19 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupapr2016annvid] |
-| 2016/03/22 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmar2016annvid] |
-| 2016/02/18 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupfeb2016annvid] |
-| 2016/01/21 | KC DevOps Meetup Intro     | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjan2016annvid] |
+| 2024/05/16 | DevOpsDays KC 2024 Summary Video | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2024]| [Video][devopsdayskcsummaryvid2024] |
+| 2024/05/15 | DevOpsDays KC 2024 Intro Day 1   | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2024]| [Video][devopsdayskcday1introvid2024] |
+| 2019/10/25 | DevOpsDays KC 2019 Summary Video | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2019]| [Video][devopsdayskcsummaryvid2019] |
+| 2019/10/24 | DevOpsDays KC 2019 Intro Day 1   | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2019]| [Video][devopsdayskcday1introvid2019] |
+| 2018/10/19 | DevOpsDays KC 2018 Summary Video | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2018]| [Video][devopsdayskcsummaryvid2018] |
+| 2018/10/18 | DevOpsDays KC 2018 Intro Day 1   | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2018]| [Video][devopsdayskcday1introvid2018] |
+| 2017/09/22 | DevOpsDays KC 2017 Summary Video | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcsummaryvid2017]   |
+| 2017/09/22 | DevOpsDays KC 2017 Intro Day 1   | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday1introvid2017] |
+| 2017/09/21 | DevOpsDays KC 2017 Intro Day 2   | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2017]| [Video][devopsdayskcday2introvid2017] |
+| 2017/06/27 | KC DevOps Meetup News            | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017newsvid] | 
+| 2017/06/27 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjune2017annvid] | 
+| 2017/05/16 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmay2017annvid] | 
+| 2017/04/04 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupapr2017annvid] | 
+| 2017/03/21 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmar2017annvid] | 
+| 2017/02/21 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupfeb2017annvid] | 
+| 2017/01/17 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjan2017annvid] | 
+| 2016/12/06 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupdec2016annvid] | 
+| 2016/11/01 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupnov2016annvid] | 
+| 2016/10/21 | DevOpsDays KC 2016 Intro Day 2   | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday2introvid] |
+| 2016/10/20 | DevOpsDays KC 2016 Intro Day 1   | [![devopsdayskc-icon]({{ site.url }}/images/icons/devopsdayskc.png)][devopsdayskc2016]| [Video][devopsdayskcday1introvid] |
+| 2016/09/28 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupsept2016annvid] |
+| 2016/08/31 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupaug2016annvid] |
+| 2016/04/19 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupapr2016annvid] |
+| 2016/03/22 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupmar2016annvid] |
+| 2016/02/18 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupfeb2016annvid] |
+| 2016/01/21 | KC DevOps Meetup Intro           | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup]          | [Video][kcdevopsmeetupjan2016annvid] |
 
 # Interviews and Podcasts
 
@@ -149,14 +165,17 @@ permalink: /presentations/
 [splvkc]: https://live.splunk.com/kansascity
 
 
+[devopsdayskcsummaryvid2024]: https://www.youtube.com/watch?v=5L52Ec_t_kI
+[devopsdayskcday1introvid2024]: https://www.youtube.com/watch?v=7ilOsnWIcQo
 [devfestkc2023vid]: https://www.facebook.com/reel/648818464065644
 [devopsdaysorganizersummit2023vid]: https://youtu.be/8eAEy3O3gYw?t=12334
 [kcdevopsmeetupmay2023talkvid]: https://www.youtube.com/watch?v=AcgmqfdNxNE&t=1s
-
+[devopsdayskcsummaryvid2019]: https://www.youtube.com/watch?v=IfpW9UJgw_M
 [devopsdayskcday1introvid2019]: https://www.youtube.com/watch?v=YV7PdwhZ7Dk&t=36s
 [isg2019photo]: https://twitter.com/ISG_News/status/1188913112495415297
 [devopsdayschi2019vid]: https://www.youtube.com/watch?v=1vn2g_rm-d8&list=PLE7tQUdRKcyaVPM8O67RtKZsfo2WNySPo&index=14&t=0s
 [devopsdaysdsm2019vid]: https://www.youtube.com/watch?v=zjMQslSpDBY
+[devopsdayskcsummaryvid2018]: https://www.youtube.com/watch?v=YafLKZlFI-U
 [devopsdayskcday1introvid2018]: https://www.youtube.com/watch?v=PiyOWzxEcA8
 [corncon2018vid]: https://www.youtube.com/watch?v=yV1TAs4Vxnc
 [devopsdayskcsummaryvid2017]: https://www.youtube.com/watch?v=9sPIXH-Jabg
