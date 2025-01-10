@@ -10,24 +10,24 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Media |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2025/02/27 | Generative AI in Action - Amplify Kansas City              | [![iabc-icon]({{ site.url }}/images/icons/iabc.png)][iabc_kc] | N/A | N/A |
+| 2025/02/27 | Generative AI in Action - Amplify Kansas City              | [![iabc-icon]({{ site.url }}/images/icons/kc-iabc.jpg)][iabc_kc] | N/A | N/A |
 | 2024/10/29 | Google Cloud Data to AI - St. Louis                        | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2024/10/09 | GenAI in Action - Ingredion Customer Symposium - Kohler WI | [![ingredion-icon]({{ site.url }}/images/icons/ingredion.jpg)][ingredion] | N/A | N/A |
 | 2024/10/08 | GenAI for Marketing - PR Newswire Webinar                  | [![prn-icon]({{ site.url }}/images/icons/prn.jpg)][prn] | N/A | N/A |
-| 2024/09/18 | Future Technology Panel - USAA - San Antonio               | [![usaa-icon]({{ site.url }}/images/icons/USAA.jpg)][usaa] | N/A | [photos][usaa2024panelphotos] |
-| 2024/08/21 | GenAI in Action - BigAI Omaha                              | [![bigai-icon]({{ site.url }}/images/icons/bigai.jpg)][bigai] | N/A | [photos][bigomaha2024photos] |
+| 2024/09/18 | Future Technology Panel - USAA - San Antonio               | [![usaa-icon]({{ site.url }}/images/icons/USAA.jpg)][usaa] | N/A | [Photos][usaa2024panelphotos] |
+| 2024/08/21 | GenAI in Action - BigAI Omaha                              | [![bigai-icon]({{ site.url }}/images/icons/bigai.jpg)][bigai] | N/A | [Photos][bigomaha2024photos] |
 | 2024/07/29 | The Singularity is Nearer - NextFive                       | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A | 
-| 2024/06/18 | Gemini for CyberSecurity - Huber CyberSecurity Symposium   | [![huber-icon]({{ site.url }}/images/icons/huber.png)][huber] | N/A | [photos][hubercyberphotos] |
-| 2024/05/03 | AI/ML for Manufacturing - APQC                             | [![apqc-icon]({{ site.url }}/images/icons/apqc.png)][apqc] | N/A | [photos][apqcphotos] |
+| 2024/06/18 | Gemini for CyberSecurity - Huber CyberSecurity Symposium   | [![huber-icon]({{ site.url }}/images/icons/huber.png)][huber] | N/A | [Photos][hubercyberphotos] |
+| 2024/05/03 | AI/ML for Manufacturing - APQC                             | [![apqc-icon]({{ site.url }}/images/icons/apqc.png)][apqc] | N/A | [Photos][apqcphotos] |
 | 2024/04/24 | Harnessing the Power of Gemini - USAA Tech X - San Antonio | [![usaa-techx-icon]({{ site.url }}/images/icons/usaa_techx.png)][usaa] | N/A | N/A |
 | 2024/04/23 | Responsible AI - USAA TechX - San Antonio                  | [![usaa-techx-icon]({{ site.url }}/images/icons/usaa_techx.png)][usaa] | N/A | N/A |
 | 2024/03/12 | Google GenAI Live and Labs (St. Louis)                     | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | [Photos][googlecloudgenailivelabsstlouis2024photos] |
-| 2023/12/01 | DevFest KC | [![devfest-icon]({{ site.url }}/images/icons/devfest.png)][devfestkc] | N/A | [video][devfestkc2023vid] |
+| 2023/12/01 | DevFest KC | [![devfest-icon]({{ site.url }}/images/icons/devfest.png)][devfestkc] | N/A | [Video][devfestkc2023vid] |
 | 2023/11/10 | NextFive KC | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
 | 2023/11/07 | General Mills+Google Cloud (Minneapolis) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2023/10/04 | VMUG KC Conference | [![vmug-icon]({{ site.url }}/images/icons/vmug.jpg)][vmug] | N/A | N/A |
 | 2023/08/14 | Google Cloud Omaha AI Tech Day (Kiewitt) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
-| 2023/08/08 | DevOpsDays Organizers Summit 2023 - Chicago | [![devopsdaysorgsummit2023-icon]({{ site.url }}/images/icons/devopsdaysorgsummit2023.jpg)][devopsdaysorgsummit2023] | N/A | [video][devopsdaysorganizersummit2023vid] |
+| 2023/08/08 | DevOpsDays Organizers Summit 2023 - Chicago | [![devopsdaysorgsummit2023-icon]({{ site.url }}/images/icons/devopsdaysorgsummit2023.jpg)][devopsdaysorgsummit2023] | N/A | [Video][devopsdaysorganizersummit2023vid] |
 | 2023/07/19 | Google Cloud Minneapolis Exec AI Day (Pinstripes) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2023/05/30 | DevOpsKC Meetup | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup] | N/A | [Video][kcdevopsmeetupmay2023talkvid] |
 | 2023/05/24 | Google Cloud St. Louis GenAI Day | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
@@ -37,7 +37,7 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 | 2019/12/16 | DevSecOpsDays Austin | [![isg-icon]({{ site.url }}/images/icons/devsecopsdays-austin.png)][devsecopsdaysaustin] | N/A | N/A |
 | 2019/10/28 | ISG Agile Summit Boston | [![isg-icon]({{ site.url }}/images/icons/isg.png)][isg2019] | N/A | [Photo][isg2019photo] |
 | 2019/08/27 | DevOpsDays Chicago | [![devopsdayschi-icon]({{ site.url }}/images/icons/devopsdayschi.jpg)][devopsdayschi2019] | [Slides][devopsdayschi2018slides] | [Video][devopsdayschi2019vid] |
-| 2019/05/02 | DevOpsDays Des Moines | [![devopsdaysdsm-icon]({{ site.url }}/images/icons/devopsdaysdsm.jpg)][devopsdaysdsm2019] | [Slides][devopsdayskc2016slides] | [video][devopsdaysdsm2019vid] |
+| 2019/05/02 | DevOpsDays Des Moines | [![devopsdaysdsm-icon]({{ site.url }}/images/icons/devopsdaysdsm.jpg)][devopsdaysdsm2019] | [Slides][devopsdayskc2016slides] | [Video][devopsdaysdsm2019vid] |
 | 2019/04/25 | Kansas City InfoSec Community Showcase | [![seckc-icon]({{ site.url }}/images/icons/seckc.jpg)][kcinfosecshowcase2019] | coming | coming |
 | 2019/03/12 | Sprint DevOps Community of Practice (Company Lunch-n-learn) | [![sprint-icon]({{ site.url }}/images/icons/sprint.png)][sprint] | N/A | N/A |
 | 2018/11/30 | RE*WORK: Machine Learning for DevOps Summit | [![rework]({{ site.url }}/images/icons/rework.png)][reworkml2018] | N/A | N/A |
