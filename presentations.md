@@ -4,21 +4,24 @@ title: Presentations
 permalink: /presentations/
 ---
 
+Aaron Blythe has presented at over 100 tech events on topics including DevOps, Cloud, Machine Learning, AI, Security, Marketing, Futurism and more. He has also organized over 100 free tech events. Additionally has MC'd, organized, and sold tickets to many large tech events over 250 people.
+
 # Presentations
 
-| Date       | Presentation                             | Event                                                                                  | Slides | Video |
+| Date       | Presentation                             | Event                                                                                  | Slides | Media |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
+| 2025/02/27 | Generative AI in Action - Amplify Kansas City              | [![iabc-icon]({{ site.url }}/images/icons/iabc.png)][iabc_kc] | N/A | N/A |
 | 2024/10/29 | Google Cloud Data to AI - St. Louis                        | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2024/10/09 | GenAI in Action - Ingredion Customer Symposium - Kohler WI | [![ingredion-icon]({{ site.url }}/images/icons/ingredion.jpg)][ingredion] | N/A | N/A |
 | 2024/10/08 | GenAI for Marketing - PR Newswire Webinar                  | [![prn-icon]({{ site.url }}/images/icons/prn.jpg)][prn] | N/A | N/A |
-| 2024/09/18 | Future Technology Panel - USAA - San Antonio               | [![usaa-icon]({{ site.url }}/images/icons/USAA.jpg)][usaa] | N/A | N/A |
-| 2024/08/21 | GenAI in Action - BigAI Omaha                              | [![bigai-icon]({{ site.url }}/images/icons/bigai.jpg)][bigai] | N/A | N/A |
+| 2024/09/18 | Future Technology Panel - USAA - San Antonio               | [![usaa-icon]({{ site.url }}/images/icons/USAA.jpg)][usaa] | N/A | [photos][usaa2024panelphotos] |
+| 2024/08/21 | GenAI in Action - BigAI Omaha                              | [![bigai-icon]({{ site.url }}/images/icons/bigai.jpg)][bigai] | N/A | [photos][bigomaha2024photos] |
 | 2024/07/29 | The Singularity is Nearer - NextFive                       | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A | 
-| 2024/06/18 | Gemini for CyberSecurity - Huber CyberSecurity Symposium   | [![huber-icon]({{ site.url }}/images/icons/huber.png)][huber] | N/A | N/A |
-| 2024/05/03 | AI/ML for Manufacturing - APQC                             | [![apqc-icon]({{ site.url }}/images/icons/apqc.png)][apqc] | N/A | N/A |
+| 2024/06/18 | Gemini for CyberSecurity - Huber CyberSecurity Symposium   | [![huber-icon]({{ site.url }}/images/icons/huber.png)][huber] | N/A | [photos][hubercyberphotos] |
+| 2024/05/03 | AI/ML for Manufacturing - APQC                             | [![apqc-icon]({{ site.url }}/images/icons/apqc.png)][apqc] | N/A | [photos][apqcphotos] |
 | 2024/04/24 | Harnessing the Power of Gemini - USAA Tech X - San Antonio | [![usaa-techx-icon]({{ site.url }}/images/icons/usaa_techx.png)][usaa] | N/A | N/A |
 | 2024/04/23 | Responsible AI - USAA TechX - San Antonio                  | [![usaa-techx-icon]({{ site.url }}/images/icons/usaa_techx.png)][usaa] | N/A | N/A |
-| 2024/03/12 | Google GenAI Live and Labs (St. Louis)                     | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
+| 2024/03/12 | Google GenAI Live and Labs (St. Louis)                     | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | [Photos][googlecloudgenailivelabsstlouis2024photos] |
 | 2023/12/01 | DevFest KC | [![devfest-icon]({{ site.url }}/images/icons/devfest.png)][devfestkc] | N/A | [video][devfestkc2023vid] |
 | 2023/11/10 | NextFive KC | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
 | 2023/11/07 | General Mills+Google Cloud (Minneapolis) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
@@ -26,7 +29,7 @@ permalink: /presentations/
 | 2023/08/14 | Google Cloud Omaha AI Tech Day (Kiewitt) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2023/08/08 | DevOpsDays Organizers Summit 2023 - Chicago | [![devopsdaysorgsummit2023-icon]({{ site.url }}/images/icons/devopsdaysorgsummit2023.jpg)][devopsdaysorgsummit2023] | N/A | [video][devopsdaysorganizersummit2023vid] |
 | 2023/07/19 | Google Cloud Minneapolis Exec AI Day (Pinstripes) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
-| 2023/05/30 | DevOpsKC Meetup | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup] | N/A | [video][kcdevopsmeetupmay2023talkvid] |
+| 2023/05/30 | DevOpsKC Meetup | [![devopskc-icon]({{ site.url }}/images/icons/devopskc.png)][kcdevopsmeetup] | N/A | [Video][kcdevopsmeetupmay2023talkvid] |
 | 2023/05/24 | Google Cloud St. Louis GenAI Day | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2023/05/12 | Google Cloud KC AI/ML Day (Burns & McDonnell) | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2023/02/22 | Google Cloud St. Louis AI/ML Day | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
@@ -123,6 +126,7 @@ permalink: /presentations/
 | 2002       | [Kool Katz Testimonials][koolkatz]         |
 
 
+[iabc_kc]: https://www.eventbrite.com/e/kc-iabc-business-communicators-summit-tickets-1063778392809
 [devfestkc]: https://devfestkc.com/
 [nextfive]: https://nextfive.io
 [googlecloud]: https://cloud.google.com/
@@ -134,7 +138,7 @@ permalink: /presentations/
 [huber]: https://www.teamhuber.com/event/bestofcyber/
 [vmug]: https://my.vmug.com
 [devopsdaysorgsummit2023]: https://devopsdays.org/events/2023-organizer-summit/welcome/
-
+[devopsdayskc20124]: https://www.devopsdays.org/events/2024-kansascity/welcome/
 [devopsdayskc2019]: https://www.devopsdays.org/events/2019-kansascity/welcome/
 [devsecopsdaysaustin]: https://www.devsecopsdays.com/2019-devsecopsdays-austin
 [isg2019]: https://aesus19.isg-one.com/agenda/session/141767
@@ -170,6 +174,11 @@ permalink: /presentations/
 [splvkc]: https://live.splunk.com/kansascity
 
 
+[usaa2024panelphotos]: https://www.linkedin.com/posts/aaronblythe_continuouslearning-activity-7242629776518086656-Cc8c/
+[bigomaha2024photos]: https://www.linkedin.com/posts/aaronblythe_just-got-back-the-professional-pictures-from-activity-7237620538582429697-edO_
+[hubercyberphotos]: https://www.linkedin.com/posts/aaronblythe_thank-you-so-much-to-huber-associates-activity-7209007860293197824-JpRe 
+[apqcphotos]: https://www.linkedin.com/posts/aaronblythe_genai-apqc-process-activity-7192210379622486016-2Qrx
+[googlecloudgenailivelabsstlouis2024photos]: https://www.linkedin.com/posts/aaronblythe_googlecloud-genai-gemini-activity-7193637739789979649-F2-j
 [devopsdayskcsummaryvid2024]: https://www.youtube.com/watch?v=5L52Ec_t_kI
 [devopsdayskcday1introvid2024]: https://www.youtube.com/watch?v=7ilOsnWIcQo
 [devfestkc2023vid]: https://www.facebook.com/reel/648818464065644
