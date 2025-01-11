@@ -10,7 +10,7 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Media |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2025/02/27 | Generative AI in Action - Amplify Kansas City              | [![iabc-icon]({{ site.url }}/images/icons/kc-iabc.jpg)][iabc_kc] | N/A | N/A |
+| 2025/02/27 | Generative AI in Action - Amplify Kansas City              | [![iabc-icon]({{ site.url }}/images/icons/kc_iabc.jpg)][iabc_kc] | N/A | N/A |
 | 2024/10/29 | Google Cloud Data to AI - St. Louis                        | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2024/10/09 | GenAI in Action - Ingredion Customer Symposium - Kohler WI | [![ingredion-icon]({{ site.url }}/images/icons/ingredion.jpg)][ingredion] | N/A | N/A |
 | 2024/10/08 | GenAI for Marketing - PR Newswire Webinar                  | [![prn-icon]({{ site.url }}/images/icons/prn.jpg)][prn] | N/A | N/A |
@@ -38,7 +38,7 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 | 2019/10/28 | ISG Agile Summit Boston | [![isg-icon]({{ site.url }}/images/icons/isg.png)][isg2019] | N/A | [Photo][isg2019photo] |
 | 2019/08/27 | DevOpsDays Chicago | [![devopsdayschi-icon]({{ site.url }}/images/icons/devopsdayschi.jpg)][devopsdayschi2019] | [Slides][devopsdayschi2018slides] | [Video][devopsdayschi2019vid] |
 | 2019/05/02 | DevOpsDays Des Moines | [![devopsdaysdsm-icon]({{ site.url }}/images/icons/devopsdaysdsm.jpg)][devopsdaysdsm2019] | [Slides][devopsdayskc2016slides] | [Video][devopsdaysdsm2019vid] |
-| 2019/04/25 | Kansas City InfoSec Community Showcase | [![seckc-icon]({{ site.url }}/images/icons/seckc.jpg)][kcinfosecshowcase2019] | coming | coming |
+| 2019/04/25 | Kansas City InfoSec Community Showcase | [![seckc-icon]({{ site.url }}/images/icons/seckc.jpg)][kcinfosecshowcase2019] | N/A | coming |
 | 2019/03/12 | Sprint DevOps Community of Practice (Company Lunch-n-learn) | [![sprint-icon]({{ site.url }}/images/icons/sprint.png)][sprint] | N/A | N/A |
 | 2018/11/30 | RE*WORK: Machine Learning for DevOps Summit | [![rework]({{ site.url }}/images/icons/rework.png)][reworkml2018] | N/A | N/A |
 | 2018/10/05 | ChatOps for Incidents (Company Lunch-n-learn) | [![rx-savings]({{ site.url }}/images/icons/rx-savings.png)][rxsavings] | [Slides][rxsavings2018slides] | [Photo](https://twitter.com/m_shahzad_z/status/1048298402050707456) |
@@ -138,7 +138,7 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 [huber]: https://www.teamhuber.com/event/bestofcyber/
 [vmug]: https://my.vmug.com
 [devopsdaysorgsummit2023]: https://devopsdays.org/events/2023-organizer-summit/welcome/
-[devopsdayskc20124]: https://www.devopsdays.org/events/2024-kansascity/welcome/
+[devopsdayskc2024]: https://www.devopsdays.org/events/2024-kansascity/welcome/
 [devopsdayskc2019]: https://www.devopsdays.org/events/2019-kansascity/welcome/
 [devsecopsdaysaustin]: https://www.devsecopsdays.com/2019-devsecopsdays-austin
 [isg2019]: https://aesus19.isg-one.com/agenda/session/141767
