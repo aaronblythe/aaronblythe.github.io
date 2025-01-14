@@ -6,7 +6,7 @@ permalink: /sports/
 
 ## Power Lifting (Strength)
 
-Aaron Blythe hold 6 state records for PowerLifing in the State of Kansas. You can follow his journey to a 1,000 lb total (#getthatcomma) on [instagram][instagramablythepower]
+Aaron Blythe hold **6 state records** for PowerLifing in the State of Kansas. You can follow his journey to a 1,000 lb total (#getthatcomma) on [instagram][instagramablythepower]
 
 | Date       | Federation | Event                                                     | Lift                            | Class            |
 | :--------: | :--------: |:---------------------------------------------------------:|:-------------------------------:| :---------------:| 
