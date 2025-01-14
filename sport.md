@@ -16,7 +16,7 @@ Aaron Blythe hold 6 state records for PowerLifing in the State of Kansas. You ca
 
 ## Martial Arts (Flexibility)
 
-Aaron Blythe is a **certified Taekwondo Instructor** at Tiger Rock Taekwondo since January 2024. Aaron Blythe will also achieved **Black Belt** status in 2025.
+Aaron Blythe is a **Certified Taekwondo Instructor** at Tiger Rock Taekwondo since January 2024. Aaron Blythe will also achieved **Black Belt** status in 2025.
 
 ## Biking/Running (Cardio Fitness)
 
@@ -25,8 +25,8 @@ Aaron Blythe trains and competes regularly in 5Ks, 10Ks and Duathlons.
 Aaron has reached his goals of 
 
 * Finishing a Half Marathon
-* Breaking 27 minutes in a 5k
 * Breaking an hour in a 10k 
+* Breaking 26 minutes in a 5k
 
 He is still chasing 1 hour 30 minutes in a Sprint Duathlon (Run 2.5k - Bike 20k - Run 5k).
 
