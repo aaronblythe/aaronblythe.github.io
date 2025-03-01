@@ -29,6 +29,11 @@ He has also won 6 medals at the National Tiger-Rock Taekwondo Tournaments (3 in 
 
 He began studying as a white belt in August 2022.
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## Biking/Running (Cardio Fitness)
 
 Aaron Blythe trains and competes regularly in 5Ks, 10Ks and Duathlons.
