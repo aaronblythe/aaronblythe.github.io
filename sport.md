@@ -19,6 +19,8 @@ Aaron Blythe hold **8 state records** for PowerLifing in the State of Kansas. Yo
 
 ## Martial Arts (Flexibility)
 
+[<img align="left" src="/images/sports/aaron_black_belt_team.jpg" hspace="20">](https://kctigerrock.com/)
+
 Aaron Blythe is a **Certified Taekwondo Instructor** at Tiger-Rock Taekwondo since January 2024. 
 
 Aaron also became a **Black Belt** martial artist in the art of Taekwondo in February 2025.
@@ -31,7 +33,7 @@ He began studying as a white belt in August 2022.
 
 Aaron Blythe trains and competes regularly in 5Ks, 10Ks and Duathlons.
 
-Aaron has reached his goals of 
+Aaron has reached his goals of: 
 
 * Finishing a Half Marathon
 * Breaking an hour in a 10k 
@@ -51,6 +53,8 @@ He is still chasing 1 hour 30 minutes in a Sprint Duathlon (Run 2.5k - Bike 20k 
 | 05/22/2022 | [2022 KC Sprint Duathlon][2022kcsprintduathlonresults]                  | Sprint Duathlon | 1:34:28 | 4/7   |
 
 ## Hockey (Badassery)
+
+[<img align="left" src="/images/sports/zleague_back_to_back.jpg" hspace="20">](https://www.kcicecenter.com/page/show/8755992-adult-z-league-2024-25-fall-winter-adult-z-league-)
 
 Aaron Blythe was part of **2 Championship Hockey Teams** in 2024 on the Killer Beez in the KCIC Adult Z League.
 
