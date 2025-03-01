@@ -14,8 +14,8 @@ Aaron Blythe hold **8 state records** for PowerLifing in the State of Kansas. Yo
 | 2025-01-25 | USAPL  |[2025 USA Powerlifting Kansas State Championships][2025usaplkansasstateresults]| [Deadlift Only][2025usaplkansasstatedeadliftonly] | 100kg Male 1b (45-49) | 165kg / 363.76 lbs |
 | 2025-01-25 | USAPL  |[2025 USA Powerlifting Kansas State Championships][2025usaplkansasstateresults]| [Push/Pull][2025usaplkansasstatepushpull]         | 100kg Male 1b (45-49) | 287.5kg / 633.83 lbs |
 | 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Total (& each individual)][2024bestofmidwestrawtotal] | 100kg Male 45-49 | 440kg / 970 lbs |
-| 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Bench Only][2024bestofmidwestbench]       | 100kg Male 45-49 | 120kg / 264.55 lbs |
-| 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Deadlift Only][2024bestofmidwestdeadlift] | 100kg Male 45-49 | 162.5kg / 358.25 lbs |
+| 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Bench Only][2024bestofmidwestbenchonly]       | 100kg Male 45-49 | 120kg / 264.55 lbs |
+| 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Deadlift Only][2024bestofmidwestdeadliftonly] | 100kg Male 45-49 | 162.5kg / 358.25 lbs |
 
 ## Martial Arts (Flexibility)
 
