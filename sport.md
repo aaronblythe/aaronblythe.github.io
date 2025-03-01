@@ -25,6 +25,8 @@ Aaron also became a **Black Belt** martial artist in the art of Taekwondo in Feb
 
 He has also won 6 medals at the National Tiger-Rock Taekwondo Tournaments (3 in 2023 and 3 in 2024)
 
+He began studying as a white belt in August 2022.
+
 ## Biking/Running (Cardio Fitness)
 
 Aaron Blythe trains and competes regularly in 5Ks, 10Ks and Duathlons.
@@ -37,16 +39,16 @@ Aaron has reached his goals of
 
 He is still chasing 1 hour 30 minutes in a Sprint Duathlon (Run 2.5k - Bike 20k - Run 5k).
 
-| Date       | Event                                                                   | Type            | Time    |
-| :--------: |:-----------------------------------------------------------------------:|:---------------:| :------:|  
-| 11/19/2024 | [2024 Gobbler Grind 5K][2024gobblergrind5kresults]                      | 5K              | 26:58   |
-| 05/19/2024 | [2024 KC Sprint Duathlon][2024kcsprintduathlonresults]                  | Sprint Duathlon | 1:33:38 |
-| 11/19/2023 | [2023 Gobbler Grind 5K][2023gobblergrind5kresults]                      | 5K              | 25:41   |
-| 09/10/2023 | [2023 Plaza 10K][2023plaza10kresults]                                   | 10K             | 55:08.2 |
-| 05/21/2023 | [2023 KC Sprint Duathlon][2023kcsprintduathlonresults]                  | Sprint Duathlon | 1:32:55 |
-| 11/20/2022 | [2022 Gobbler Grind Half Marathon][2022gobblergrindhalfmarathonresults] | Half Marathon   | 2:13:19 |
-| 09/11/2022 | [2022 Plaza 10K][2022plaza10kresults]                                   | 10K             | 59:27.8 |
-| 05/22/2022 | [2022 KC Sprint Duathlon][2022kcsprintduathlonresults]                  | Sprint Duathlon | 1:34:28 |
+| Date       | Event                                                                   | Type            | Time    | Age Group Place |
+| :--------: |:-----------------------------------------------------------------------:|:---------------:| :------:| :--------------:| 
+| 11/19/2024 | [2024 Gobbler Grind 5K][2024gobblergrind5kresults]                      | 5K              | 26:58   | 5/13  |
+| 05/19/2024 | [2024 KC Sprint Duathlon][2024kcsprintduathlonresults]                  | Sprint Duathlon | 1:33:38 | 2/2   |
+| 11/19/2023 | [2023 Gobbler Grind 5K][2023gobblergrind5kresults]                      | 5K              | 25:41   | 3/14  |
+| 09/10/2023 | [2023 Plaza 10K][2023plaza10kresults]                                   | 10K             | 55:08.2 | 52/89 |
+| 05/21/2023 | [2023 KC Sprint Duathlon][2023kcsprintduathlonresults]                  | Sprint Duathlon | 1:32:55 | 2/3   |
+| 11/20/2022 | [2022 Gobbler Grind Half Marathon][2022gobblergrindhalfmarathonresults] | Half Marathon   | 2:13:19 | 21/31 |
+| 09/11/2022 | [2022 Plaza 10K][2022plaza10kresults]                                   | 10K             | 59:27.8 | 66/92 |
+| 05/22/2022 | [2022 KC Sprint Duathlon][2022kcsprintduathlonresults]                  | Sprint Duathlon | 1:34:28 | 4/7   |
 
 ## Hockey (Badassery)
 
