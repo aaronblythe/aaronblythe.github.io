@@ -55,7 +55,7 @@ He is still chasing 1 hour 30 minutes in a Sprint Duathlon (Run 2.5k - Bike 20k 
 Aaron Blythe was part of **2 Championship Hockey Teams** in 2024 on the Killer Beez in the KCIC Adult Z League.
 
 * [2023/2024 Fall/Winter Adult Z League Champs][20232024zleaguechamps]
-* [20024 Summer Adult Z League Champs][summmer2024zleaguechamps]
+* [2024 Summer Adult Z League Champs][summmer2024zleaguechamps]
 
 [instagramablythepower]: https://www.instagram.com/ablythepower/
 [2025usaplkansasstatepushpull]: {{ site.url }}/images/records/usapl_2025_pushpull.pdf
