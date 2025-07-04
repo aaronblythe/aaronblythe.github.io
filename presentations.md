@@ -11,7 +11,7 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 | Date       | Presentation                             | Event                                                                                  | Slides | Media |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
 | 2025/07/21 | Vibe Coding                                                | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
-| 2025/06/25 | GenAI In Action: Using the latest innovations from Google  | [![agentconkc-icon]({{ site.url }}/images/icons/agentcon_kc.jpg)][agentcon_kc] | N/A | [Photos][agentconkc_2025_photos] |
+| 2025/06/25 | GenAI In Action: Using the latest innovations from Google  | [![agentconkc-icon]({{ site.url }}/images/icons/agentconkc.jpg)][agentconkc_2025] | N/A | [Photos][agentconkc_2025_photos] |
 | 2025/05/19 | Robotics: Review of World's First Humanoid Robot Half Marathon in Bejing | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
 | 2025/04/25 | Gemini for CyberSecurity - Huber CyberSecurity Symposium   | [![huber-icon]({{ site.url }}/images/icons/huber.png)][huber_2025] | N/A | [Photos][huber_2025_photos] |
 | 2025/04/21 | Robotics - Humanoid Androids: Can you have your own?       | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
