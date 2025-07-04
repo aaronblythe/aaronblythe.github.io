@@ -10,6 +10,12 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Media |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
+| 2025/07/21 | Vibe Coding                                                | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
+| 2025/06/25 | GenAI In Action: Using the latest innovations from Google  | [![agentconkc-icon]({{ site.url }}/images/icons/agentcon_kc.jpg)][agentcon_kc] | N/A | [Photos][agentconkc_2025_photos] |
+| 2025/05/19 | Robotics: Review of World's First Humanoid Robot Half Marathon in Bejing | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
+| 2025/04/25 | Gemini for CyberSecurity - Huber CyberSecurity Symposium   | [![huber-icon]({{ site.url }}/images/icons/huber.png)][huber_2025] | N/A | [Photos][huber_2025_photos] |
+| 2025/04/21 | Robotics - Humanoid Androids: Can you have your own?       | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
+| 2025/03/10 | What are Agents? Google AgentSpace and Agent Builder       | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
 | 2025/02/27 | Generative AI in Action - Amplify Kansas City              | [![iabc-icon]({{ site.url }}/images/icons/kc_iabc.jpg)][iabc_kc] | N/A | N/A |
 | 2024/10/29 | Google Cloud Data to AI - St. Louis                        | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2024/10/09 | GenAI in Action - Ingredion Customer Symposium - Kohler WI | [![ingredion-icon]({{ site.url }}/images/icons/ingredion.jpg)][ingredion] | N/A | N/A |
@@ -126,6 +132,9 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 | 2002       | [Kool Katz Testimonials][koolkatz]         |
 
 
+
+[agentconkc_2025]: https://globalai.community/chapters/kansas-city/events/agentcon-2025-kansas-city/
+[huber_2025]: https://www.teamhuber.com/event/bestofcyber-2025/
 [iabc_kc]: https://www.eventbrite.com/e/kc-iabc-business-communicators-summit-tickets-1063778392809
 [devfestkc]: https://devfestkc.com/
 [nextfive]: https://nextfive.io
@@ -174,6 +183,8 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 [splvkc]: https://live.splunk.com/kansascity
 
 
+[agentconkc_2025_photos]: https://www.linkedin.com/posts/aaronblythe_so-honored-to-have-the-opportunity-to-speak-activity-7344112616933421058-iBCH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACQCWsBTAgeLdgPl_USK3yK2au_2hVi-r4
+[huber_2025_photos]: https://www.linkedin.com/posts/aaronblythe_today-i-got-to-meet-trent-green-kansas-city-activity-7321660654942085121-qgAC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACQCWsBTAgeLdgPl_USK3yK2au_2hVi-r4
 [usaa2024panelphotos]: https://www.linkedin.com/posts/aaronblythe_continuouslearning-activity-7242629776518086656-Cc8c/
 [bigomaha2024photos]: https://www.linkedin.com/posts/aaronblythe_just-got-back-the-professional-pictures-from-activity-7237620538582429697-edO_
 [hubercyberphotos]: https://www.linkedin.com/posts/aaronblythe_thank-you-so-much-to-huber-associates-activity-7209007860293197824-JpRe 
