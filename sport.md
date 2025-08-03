@@ -49,6 +49,8 @@ He is still chasing 1 hour 30 minutes in a Sprint Duathlon (Run 2.5k - Bike 20k 
 
 | Date       | Event                                                                   | Type            | Time    | Age Group Place |
 | :--------: |:-----------------------------------------------------------------------:|:---------------:| :------:| :--------------:| 
+| 05/18/2025 | [2025 Martin City Whiskey Run 5k][2025whiskeyrun5kresults]              | 5K              | 26:52   | 11/34 |
+| 02/09/2025 | [2025 Kickoff 5k][2025kickoff5kresults]                                 | 5K              | 26:25   | 7/28  |
 | 11/19/2024 | [2024 Gobbler Grind 5K][2024gobblergrind5kresults]                      | 5K              | 26:58   | 5/13  |
 | 05/19/2024 | [2024 KC Sprint Duathlon][2024kcsprintduathlonresults]                  | Sprint Duathlon | 1:33:38 | 2/2   |
 | 11/19/2023 | [2023 Gobbler Grind 5K][2023gobblergrind5kresults]                      | 5K              | 25:41   | 3/14  |
@@ -80,6 +82,8 @@ Aaron Blythe was part of **2 Championship Hockey Teams** in 2024 on the Killer B
 [2024uspabestofmidwestresults]: {{ site.url }}/images/records/USPA-Tested-2024-Best-Of-The-Midwest-Powerlifting-Championships-November-2-2024.pdf
 [20232024zleaguechamps]: https://www.kcicecenter.com/page/show/8243720-adult-z-league-2023-24-fall-winter-adult-z-league-?subseason=909775
 [summmer2024zleaguechamps]: https://www.kcicecenter.com/page/show/8571531-adult-z-league-2024-summer-adult-z-league-?subseason=927868
+[2025whiskeyrun5kresults]: https://runsignup.com/Race/Results/14261/IndividualResult/TKFh?resultSetId=550751#U55792098
+[2025kickoff5kresults]: https://runsignup.com/Race/Results/13083/IndividualResult/chJK#U55792098
 [2024gobblergrind5kresults]: https://www.athlinks.com/event/20233/results/Event/1096709/Course/2539480/Bib/1269
 [2024kcsprintduathlonresults]: https://www.mtecresults.com/runner/show?rid=82790380&race=17037
 [2023gobblergrind5kresults]: https://www.athlinks.com/event/20233/results/Event/1065414/Course/2417998/Bib/2177
