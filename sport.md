@@ -10,7 +10,7 @@ Aaron Blythe hold **8 state records** for PowerLifing in the State of Kansas. Yo
 
 | Date       | Federation | Event                                                 | Lift                                            | Class            | Weight |
 | :--------: | :--------: |:-----------------------------------------------------:|:-----------------------------------------------:| :---------------:| :-----:|
-| 2025-04-26 | USPA   |[2025 USPA Kansas State Championships][2024uspakansasstateresults]| [Total (& each individual)][2025uspakansasstaterawtotal]       | 100kg Male 45-49      | 456kg / 1005.31 lbs |
+| 2025-04-26 | USPA   |[2025 USPA Kansas State Championships][2024uspakansasstateresults]| [Total (& each individual)][2025uspakansasstaterawtotal]       | 100kg Male 45-49      | 456kg / 1,005.31 lbs |
 | 2025-01-25 | USAPL  |[2025 USA Powerlifting Kansas State Championships][2025usaplkansasstateresults]| [Bench Only][2025usaplkansasstatebenchonly]       | 100kg Male 1b (45-49) | 122.5kg / 270 lbs |
 | 2025-01-25 | USAPL  |[2025 USA Powerlifting Kansas State Championships][2025usaplkansasstateresults]| [Deadlift Only][2025usaplkansasstatedeadliftonly] | 100kg Male 1b (45-49) | 165kg / 363.76 lbs |
 | 2025-01-25 | USAPL  |[2025 USA Powerlifting Kansas State Championships][2025usaplkansasstateresults]| [Push/Pull][2025usaplkansasstatepushpull]         | 100kg Male 1b (45-49) | 287.5kg / 633.83 lbs |
