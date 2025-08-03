@@ -26,7 +26,7 @@ Aaron Blythe is a **Certified Taekwondo Instructor** at Tiger-Rock Taekwondo sin
 
 Aaron also became a **Black Belt** martial artist in the art of Taekwondo in February 2025.
 
-He has also won 6 medals at the National Tiger-Rock Taekwondo Tournaments (3 in 2023 and 3 in 2024)
+He has also won 9 medals at the National Tiger-Rock Taekwondo Tournaments (3 in each year of 2023, 2024, and 2025)
 
 He began studying as a white belt in August 2022.
 
