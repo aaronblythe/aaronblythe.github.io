@@ -51,7 +51,7 @@ He is still chasing 1 hour 30 minutes in a Sprint Duathlon (Run 2.5k - Bike 20k 
 | :--------: |:-----------------------------------------------------------------------:|:---------------:| :------:| :--------------:| 
 | 05/18/2025 | [2025 Martin City Whiskey Run 5k][2025whiskeyrun5kresults]              | 5K              | 26:52   | 11/34 |
 | 02/09/2025 | [2025 Kickoff 5k][2025kickoff5kresults]                                 | 5K              | 26:25   | 7/28  |
-| 11/19/2024 | [2024 Gobbler Grind 5K][2024gobblergrind5kresults]                      | 5K              | 26:58   | 5/13  |
+| 11/24/2024 | [2024 Gobbler Grind 5K][2024gobblergrind5kresults]                      | 5K              | 26:58   | 5/13  |
 | 05/19/2024 | [2024 KC Sprint Duathlon][2024kcsprintduathlonresults]                  | Sprint Duathlon | 1:33:38 | 2/2   |
 | 11/19/2023 | [2023 Gobbler Grind 5K][2023gobblergrind5kresults]                      | 5K              | 25:41   | 3/14  |
 | 09/10/2023 | [2023 Plaza 10K][2023plaza10kresults]                                   | 10K             | 55:08.2 | 52/89 |
