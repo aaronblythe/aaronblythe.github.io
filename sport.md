@@ -6,17 +6,24 @@ permalink: /sports/
 
 ## Power Lifting (Strength)
 
-Aaron Blythe hold **8 state records** for PowerLifing in the State of Kansas. You can follow his journey to a 1,000 lb total (#getthatcomma) on [instagram][instagramablythepower]
+Aaron Blythe is a Powerlifter in the Drug Tested Male 45-49 Age group at the 100kg(220 lbs) weight class. He holds **14 state records** for PowerLifing in the State of Kansas across 3 federations. 
 
-| Date       | Federation | Event                                                 | Lift                                            | Class            | Weight |
-| :--------: | :--------: |:-----------------------------------------------------:|:-----------------------------------------------:| :---------------:| :-----:|
-| 2025-04-26 | USPA   |[2025 USPA Kansas State Championships][2024uspakansasstateresults]| [Total (& each individual)][2025uspakansasstaterawtotal]       | 100kg Male 45-49      | 456kg / 1,005.31 lbs |
-| 2025-01-25 | USAPL  |[2025 USA Powerlifting Kansas State Championships][2025usaplkansasstateresults]| [Bench Only][2025usaplkansasstatebenchonly]       | 100kg Male 1b (45-49) | 122.5kg / 270 lbs |
-| 2025-01-25 | USAPL  |[2025 USA Powerlifting Kansas State Championships][2025usaplkansasstateresults]| [Deadlift Only][2025usaplkansasstatedeadliftonly] | 100kg Male 1b (45-49) | 165kg / 363.76 lbs |
+In 2025, he became the Kansas State Champion in his class in 2 federations (USPA and USAPL) and the SPF Masters National Champion in his class.
+
+You can follow see his 2024-2025 journey to a 1,000 lb total (#getthatcomma) on [instagram][instagramablythepower] where he is continuing to post as he pushes that total higher.
+
+| Date       | Federation | Event                                                 | Lift                                                                  | Class               | Weight | Dots |
+| :--------: | :--------: |:-----------------------------------------------------:|:---------------------------------------------------------------------:| :------------------:| :-----:|:----:|
+| 2025-10-04 | SPF    |[2025 SPF Masters Nationals][2025spfmastersnationalsresults]| [Total (& each individual)][2025spfmastersnationalsrawtotal]         | 220 lbs M45-49        | 473.5kg / 1,044 lbs | 292.15 |
+| 2025-10-04 | SPF    |[2025 SPF Masters Nationals][2025spfmastersnationalsresults]| [Deadlift Only][2025spfmastersnationalsrawtotal]                     | 220 lbs M45-49        | 122.9kg / 271 lbs | |
+| 2025-10-04 | SPF    |[2025 SPF Masters Nationals][2025spfmastersnationalsresults]| [Bench Only][2025spfmastersnationalsrawtotal]                        | 220 lbs M45-49        | 181.9kg / 401 lbs | |
+| 2025-04-26 | USPA   |[2025 USPA Kansas State Championships][2025uspakansasstateresults]| [Total (& each individual)][2025uspakansasstaterawtotal]       | 100kg Male 45-49      | 456kg / 1,005.31 lbs | 282.47 |
+| 2025-01-25 | USAPL  |[2025 USA Powerlifting Kansas State Championships][2025usaplkansasstateresults]| [Bench Only][2025usaplkansasstatebenchonly]       | 100kg Male 1b (45-49) | 122.5kg / 270 lbs | |
+| 2025-01-25 | USAPL  |[2025 USA Powerlifting Kansas State Championships][2025usaplkansasstateresults]| [Deadlift Only][2025usaplkansasstatedeadliftonly] | 100kg Male 1b (45-49) | 165kg / 363.76 lbs | |
 | 2025-01-25 | USAPL  |[2025 USA Powerlifting Kansas State Championships][2025usaplkansasstateresults]| [Push/Pull][2025usaplkansasstatepushpull]         | 100kg Male 1b (45-49) | 287.5kg / 633.83 lbs |
-| 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Total (& each individual)][2024bestofmidwestrawtotal] | 100kg Male 45-49 | 440kg / 970 lbs |
-| 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Bench Only][2024bestofmidwestbenchonly]       | 100kg Male 45-49 | 120kg / 264.55 lbs |
-| 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Deadlift Only][2024bestofmidwestdeadliftonly] | 100kg Male 45-49 | 162.5kg / 358.25 lbs |
+| 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Total (& each individual)][2024bestofmidwestrawtotal] | 100kg Male 45-49 | 440kg / 970 lbs | 272.81 |
+| 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Bench Only][2024bestofmidwestbenchonly]       | 100kg Male 45-49 | 120kg / 264.55 lbs | |
+| 2024-11-02 | USPA   |[Drug Tested Best of the Midwest Powerlifting Championship][2024uspabestofmidwestresults]| [Deadlift Only][2024bestofmidwestdeadliftonly] | 100kg Male 45-49 | 162.5kg / 358.25 lbs | |
 
 ## Martial Arts (Flexibility)
 
@@ -71,11 +78,13 @@ Aaron Blythe was part of **2 Championship Hockey Teams** in 2024 on the Killer B
 
 [instagramablythepower]: https://www.instagram.com/ablythepower/
 [2025uspakansasstaterawtotal]: {{ site.url }}/images/records/uspa_2025_full.pdf
-[2024uspakansasstateresults]: {{ site.url }}/images/records/USPA-Tested-2025-Kansas-State-Powerlifting-Championships-April-26-2025.pdf
+[2025spfmastersnationalsrawtotal]: {{ site.url }}/images/records/2025spfksrecords.png
+[2025spfmastersnationalsresults]: https://www.openpowerlifting.org/m/spf/2521
+[2025uspakansasstateresults]: {{ site.url }}/images/records/USPA-Tested-2025-Kansas-State-Powerlifting-Championships-April-26-2025.pdf
 [2025usaplkansasstatepushpull]: {{ site.url }}/images/records/usapl_2025_pushpull.pdf
 [2025usaplkansasstatebenchonly]: {{ site.url }}/images/records/usapl_2025_bench.pdf
 [2025usaplkansasstatedeadliftonly]: {{ site.url }}/images/records/usapl_2025_deadlift.pdf
-[2025usaplkansasstateresults]: https://liftingcast.com/meets/mkjz1ydhh1of/lifter/lrmgqy0dyuqb/results
+[2025usaplkansasstateresults]: https://www.openpowerlifting.org/m/usapl/KS-2025-03
 [2024bestofmidwestrawtotal]: {{ site.url }}/images/records/uspa_2024_full.pdf
 [2024bestofmidwestbenchonly]: {{ site.url }}/images/records/uspa_2024_bench.pdf
 [2024bestofmidwestdeadliftonly]: {{ site.url }}/images/records/uspa_2024_deadlift.pdf
