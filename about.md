@@ -9,7 +9,8 @@ about how things work and fit together.
 
 His work history can be found on [LinkedIn](https://www.linkedin.com/in/aaronblythe)
 
-You will also find out more on [About.me](https://about.me/aaronblythe)
+His acting history can be found on [IMDB](https://www.imdb.com/name/nm17870003/)
 
-[pdf resume](../images/resume.pdf)
+His powerlifting accomplishments can be found on [Open Powerlifting](https://www.openpowerlifting.org/u/aaronblythe)
+
 

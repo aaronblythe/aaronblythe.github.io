@@ -147,8 +147,8 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 [huber]: https://www.teamhuber.com/event/bestofcyber/
 [vmug]: https://my.vmug.com
 [devopsdaysorgsummit2023]: https://devopsdays.org/events/2023-organizer-summit/welcome/
-[devopsdayskc2024]: https://www.devopsdays.org/events/2024-kansascity/welcome/
-[devopsdayskc2019]: https://www.devopsdays.org/events/2019-kansascity/welcome/
+[devopsdayskc2024]: https://devopsdays.org/events/2024-kansas-city/welcome/
+[devopsdayskc2019]: https://devopsdays.org/events/2019-kansas-city/welcome/
 [devsecopsdaysaustin]: https://www.devsecopsdays.com/2019-devsecopsdays-austin
 [isg2019]: https://aesus19.isg-one.com/agenda/session/141767
 [devopsdayschi2019]: https://devopsdays.org/events/2019-chicago/welcome/
@@ -157,7 +157,7 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 [sprint]: https://www.sprint.com/
 [reworkml2018]: https://www.re-work.co/events/machine-learning-for-devops-summit-2018
 [rxsavings]: https://rxsavingssolutions.com/
-[devopsdayskc2018]: https://www.devopsdays.org/events/2018-kansas-city/welcome/
+[devopsdayskc2018]: https://devopsdays.org/events/2018-kansas-city/welcome/
 [corncon2018]: https://corncon.net/
 [bsideskc2018]: https://www.bsideskc.org/
 [bsidesiowa2018]: https://bsidesiowa.com/
