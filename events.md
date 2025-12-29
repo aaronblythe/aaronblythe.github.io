@@ -18,8 +18,8 @@ Aaron Blythe has put on over one hundred free tech social events, sold thousands
 
 His current venture with [Dustin Holub](https://www.linkedin.com/in/dustinholub/) and [Ben Clayton](https://www.linkedin.com/in/cbenclayton/) is [NextFive](https://nextfive.io) aims to pose the question, “What do we need to be doing right now to prepare ourselves for the NextFive years?” We have held meetups in 2025 focused around Generative AI, Agentic AI, bi-pedal robotics, vibe-coding and vibe-creation. In November 2023, we held an all day event focused on Generative AI.
 
-* Videos of past events can be found on: [https://www.youtube.com/@nextfiveio](youtube.com/@nextfiveio)
-* Future meetups can be found at: [https://nextfive.io](nextfive.io)
+* Videos of past events can be found on: [youtube.com/@nextfiveio](https://www.youtube.com/@nextfiveio)
+* Future meetups can be found at: [nextfive.io](https://nextfive.io)
 
 # DevOpsDays KC
 
