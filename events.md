@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-Aaron Blythe has created, promoted, and ran successful tech social meetups since 2013. 
+Aaron Blythe has created, planned, promoted, and ran successful tech social meetups since 2013. 
 
 Over that time he has built 3 separate brands
 
