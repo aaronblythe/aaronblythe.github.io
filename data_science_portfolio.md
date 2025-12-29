@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 # Data Science Portfolio
 
-I am currently a graduate student at the University of Illinois Urbana-Champaign (the [#5 Computer Science program in the nation](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)), working on a Master's in Computer Science with a focus on Data Science. I am maintaining a a GPA of 4.0. This page is a compilation of the work that I can share publicly. I am also working on a couple of models at work that I cannot share publicly, but can discuss privately.
+Aaron Blythe has a Masters degree in Computer Science with a focus on Data Science from the University of Illinois Urbana-Champaign (perennially the [#5 Computer Science program in the nation](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)), where he achieved a GPA of 4.0 with a graduation date of 2021. This page is a compilation of my work that I can share publicly. 
 
 ## Machine Learning
 
