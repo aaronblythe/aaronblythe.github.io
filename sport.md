@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sports
 title: Sports
 permalink: /sports/
 ---
