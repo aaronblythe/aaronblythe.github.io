@@ -10,7 +10,10 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 
 | Date       | Presentation                             | Event                                                                                  | Slides | Media |
 | :--------: | :--------------------------------------: |:--------------------------------------------------------------------------------------:|:------:|:-----:|
-| 2025/07/21 | Vibe Coding                                                | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
+| 2025/10/21 | Generative AI for Higher Education                         | [![mochamber-icon]({{ site.url }}/images/icons/mochamber.jpg)][mochamberworkforce2030] | N/A | [Photos][mochamberworkforce2030_photos] |
+| 2025/10/09 | GenAI in Action - WellSky DevDays                          | [![wellsky-icon]({{ site.url }}/images/icons/wellsky.png)][wellsky] | N/A | [Photos][wellskydevdays_photos]  |
+| 2025/10/09 | Data Vibes - WellSky DevDays                               | [![wellsky-icon]({{ site.url }}/images/icons/wellsky.png)][wellsky] | N/A | [Photos][wellskydevdays_photos] |
+| 2025/07/21 | Data Vibes - DA Summer Camp Virtual Series                 | [![google-cloud-icon]({{ site.url }}/images/icons/google_cloud.png)][googlecloud] | N/A | N/A |
 | 2025/06/25 | GenAI In Action: Using the latest innovations from Google  | [![agentconkc-icon]({{ site.url }}/images/icons/agentconkc.png)][agentconkc_2025] | N/A | [Photos][agentconkc_2025_photos] |
 | 2025/05/19 | Robotics: Review of World's First Humanoid Robot Half Marathon in Bejing | [![nextfive-icon]({{ site.url }}/images/icons/nextfive.jpg)][nextfive] | N/A | N/A |
 | 2025/04/25 | Gemini for CyberSecurity - Huber CyberSecurity Symposium   | [![huber-icon]({{ site.url }}/images/icons/huber.png)][huber_2025] | N/A | [Photos][huber_2025_photos] |
@@ -132,7 +135,8 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 | 2002       | [Kool Katz Testimonials][koolkatz]         |
 
 
-
+[wellsky]: https://wellsky.com/
+[mochamberworkforce2030]: https://mochamber.com/event/workforce2030-conference/
 [agentconkc_2025]: https://globalai.community/chapters/kansas-city/events/agentcon-2025-kansas-city/
 [huber_2025]: https://www.teamhuber.com/event/bestofcyber-2025/
 [iabc_kc]: https://www.eventbrite.com/e/kc-iabc-business-communicators-summit-tickets-1063778392809
@@ -183,6 +187,8 @@ Aaron Blythe has presented at over 100 tech events on topics including DevOps, C
 [splvkc]: https://live.splunk.com/kansascity
 
 
+[wellskydevdays_photos]: https://www.linkedin.com/posts/aaronblythe_devdays-solutionssummit-wellsky-activity-7382446177461395456-VjOR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACQCWsBTAgeLdgPl_USK3yK2au_2hVi-r4
+[mochamberworkforce2030_photos]: https://www.linkedin.com/posts/aaronblythe_i-was-really-honored-to-have-the-opportunity-activity-7387238276358778881-spOY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACQCWsBTAgeLdgPl_USK3yK2au_2hVi-r4
 [agentconkc_2025_photos]: https://www.linkedin.com/posts/aaronblythe_so-honored-to-have-the-opportunity-to-speak-activity-7344112616933421058-iBCH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACQCWsBTAgeLdgPl_USK3yK2au_2hVi-r4
 [huber_2025_photos]: https://www.linkedin.com/posts/aaronblythe_today-i-got-to-meet-trent-green-kansas-city-activity-7321660654942085121-qgAC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACQCWsBTAgeLdgPl_USK3yK2au_2hVi-r4
 [usaa2024panelphotos]: https://www.linkedin.com/posts/aaronblythe_continuouslearning-activity-7242629776518086656-Cc8c/
